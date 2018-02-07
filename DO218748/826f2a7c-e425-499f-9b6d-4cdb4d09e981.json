@@ -1,4 +1,5 @@
 {
+    "analysisId": "826f2a7c-e425-499f-9b6d-4cdb4d09e981", 
     "analysisType": "sequencingRead", 
     "experiment": {
         "libraryStrategy": "WGS", 
@@ -6,7 +7,6 @@
     }, 
     "file": [
         {
-            "analysisId": "826f2a7c-e425-499f-9b6d-4cdb4d09e981", 
             "fileAccess": "controlled", 
             "fileMd5sum": "d8a4205aa708680a443eaedfb7f83fff", 
             "fileName": "eea4804c3d9da13a16a9c0ef433ae428.bam.bai", 
@@ -14,7 +14,6 @@
             "fileType": "BAI"
         }, 
         {
-            "analysisId": "826f2a7c-e425-499f-9b6d-4cdb4d09e981", 
             "fileAccess": "controlled", 
             "fileMd5sum": "eea4804c3d9da13a16a9c0ef433ae428", 
             "fileName": "eea4804c3d9da13a16a9c0ef433ae428.bam", 
@@ -22,7 +21,6 @@
             "fileType": "BAM"
         }, 
         {
-            "analysisId": "826f2a7c-e425-499f-9b6d-4cdb4d09e981", 
             "fileAccess": "controlled", 
             "fileMd5sum": "24d57fbffb1c0723e7a37caca23215f9", 
             "fileName": "826f2a7c-e425-499f-9b6d-4cdb4d09e981.xml", 
@@ -35,17 +33,12 @@
         {
             "donor": {
                 "donorGender": "unspecified", 
-                "donorId": "DO218748", 
-                "donorSubmitterId": "NE-0032", 
-                "studyId": "PAEN-AU"
+                "donorSubmitterId": "NE-0032"
             }, 
-            "sampleId": "SA544147", 
             "sampleSubmitterId": "NE32-T", 
             "sampleType": "DNA", 
             "specimen": {
-                "donorId": "DO218748", 
                 "specimenClass": "Tumour", 
-                "specimenId": "SP117990", 
                 "specimenSubmitterId": "NE32-T", 
                 "specimenType": "Primary tumour - solid tissue"
             }

@@ -1,4 +1,5 @@
 {
+    "analysisId": "18ebedd3-f45d-4c94-b4f0-6607cb49ddcb", 
     "analysisType": "sequencingRead", 
     "experiment": {
         "libraryStrategy": "WGS", 
@@ -6,7 +7,6 @@
     }, 
     "file": [
         {
-            "analysisId": "18ebedd3-f45d-4c94-b4f0-6607cb49ddcb", 
             "fileAccess": "controlled", 
             "fileMd5sum": "dc1ed9a2baa67f924eac44316eb15e97", 
             "fileName": "1836161d46666862b2c995017419e09b.bam.bai", 
@@ -14,7 +14,6 @@
             "fileType": "BAI"
         }, 
         {
-            "analysisId": "18ebedd3-f45d-4c94-b4f0-6607cb49ddcb", 
             "fileAccess": "controlled", 
             "fileMd5sum": "1836161d46666862b2c995017419e09b", 
             "fileName": "1836161d46666862b2c995017419e09b.bam", 
@@ -22,7 +21,6 @@
             "fileType": "BAM"
         }, 
         {
-            "analysisId": "18ebedd3-f45d-4c94-b4f0-6607cb49ddcb", 
             "fileAccess": "controlled", 
             "fileMd5sum": "547234fa2be780207af56e6c45273865", 
             "fileName": "18ebedd3-f45d-4c94-b4f0-6607cb49ddcb.xml", 
@@ -35,17 +33,12 @@
         {
             "donor": {
                 "donorGender": "unspecified", 
-                "donorId": "DO218381", 
-                "donorSubmitterId": "NE-0010", 
-                "studyId": "PAEN-AU"
+                "donorSubmitterId": "NE-0010"
             }, 
-            "sampleId": "SA544960", 
             "sampleSubmitterId": "NE10-N", 
             "sampleType": "DNA", 
             "specimen": {
-                "donorId": "DO218381", 
                 "specimenClass": "Normal", 
-                "specimenId": "SP118710", 
                 "specimenSubmitterId": "NE10-N", 
                 "specimenType": "Normal - blood derived"
             }

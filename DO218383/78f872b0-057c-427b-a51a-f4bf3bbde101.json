@@ -1,4 +1,5 @@
 {
+    "analysisId": "78f872b0-057c-427b-a51a-f4bf3bbde101", 
     "analysisType": "sequencingRead", 
     "experiment": {
         "libraryStrategy": "WGS", 
@@ -6,7 +7,6 @@
     }, 
     "file": [
         {
-            "analysisId": "78f872b0-057c-427b-a51a-f4bf3bbde101", 
             "fileAccess": "controlled", 
             "fileMd5sum": "8f567d1e1bce107ab6ce6b09276e0f15", 
             "fileName": "6f35ea093af19fd94195f150623d4ae2.bam.bai", 
@@ -14,7 +14,6 @@
             "fileType": "BAI"
         }, 
         {
-            "analysisId": "78f872b0-057c-427b-a51a-f4bf3bbde101", 
             "fileAccess": "controlled", 
             "fileMd5sum": "6f35ea093af19fd94195f150623d4ae2", 
             "fileName": "6f35ea093af19fd94195f150623d4ae2.bam", 
@@ -22,7 +21,6 @@
             "fileType": "BAM"
         }, 
         {
-            "analysisId": "78f872b0-057c-427b-a51a-f4bf3bbde101", 
             "fileAccess": "controlled", 
             "fileMd5sum": "574ea5389f983deb4392cd413872b897", 
             "fileName": "78f872b0-057c-427b-a51a-f4bf3bbde101.xml", 
@@ -35,17 +33,12 @@
         {
             "donor": {
                 "donorGender": "unspecified", 
-                "donorId": "DO218383", 
-                "donorSubmitterId": "ITNET-0809", 
-                "studyId": "PAEN-AU"
+                "donorSubmitterId": "ITNET-0809"
             }, 
-            "sampleId": "SA544969", 
             "sampleSubmitterId": "809N", 
             "sampleType": "DNA", 
             "specimen": {
-                "donorId": "DO218383", 
                 "specimenClass": "Normal", 
-                "specimenId": "SP118719", 
                 "specimenSubmitterId": "809N", 
                 "specimenType": "Normal - solid tissue"
             }

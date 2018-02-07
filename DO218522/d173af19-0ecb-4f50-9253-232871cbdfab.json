@@ -1,4 +1,5 @@
 {
+    "analysisId": "d173af19-0ecb-4f50-9253-232871cbdfab", 
     "analysisType": "sequencingRead", 
     "experiment": {
         "libraryStrategy": "WGS", 
@@ -6,7 +7,6 @@
     }, 
     "file": [
         {
-            "analysisId": "d173af19-0ecb-4f50-9253-232871cbdfab", 
             "fileAccess": "controlled", 
             "fileMd5sum": "e50dda6c9d7e958eca8a12ea85c2b378", 
             "fileName": "dc19819370b79d6d1bc92af119b2e4c0.bam.bai", 
@@ -14,7 +14,6 @@
             "fileType": "BAI"
         }, 
         {
-            "analysisId": "d173af19-0ecb-4f50-9253-232871cbdfab", 
             "fileAccess": "controlled", 
             "fileMd5sum": "dc19819370b79d6d1bc92af119b2e4c0", 
             "fileName": "dc19819370b79d6d1bc92af119b2e4c0.bam", 
@@ -22,7 +21,6 @@
             "fileType": "BAM"
         }, 
         {
-            "analysisId": "d173af19-0ecb-4f50-9253-232871cbdfab", 
             "fileAccess": "controlled", 
             "fileMd5sum": "98ea8e4da40bffd37c190598a6b86034", 
             "fileName": "d173af19-0ecb-4f50-9253-232871cbdfab.xml", 
@@ -35,17 +33,12 @@
         {
             "donor": {
                 "donorGender": "unspecified", 
-                "donorId": "DO218522", 
-                "donorSubmitterId": "ITNET-0911", 
-                "studyId": "PAEN-AU"
+                "donorSubmitterId": "ITNET-0911"
             }, 
-            "sampleId": "SA543738", 
             "sampleSubmitterId": "911T", 
             "sampleType": "DNA", 
             "specimen": {
-                "donorId": "DO218522", 
                 "specimenClass": "Tumour", 
-                "specimenId": "SP117744", 
                 "specimenSubmitterId": "911T", 
                 "specimenType": "Primary tumour - solid tissue"
             }

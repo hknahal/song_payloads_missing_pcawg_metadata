@@ -1,4 +1,5 @@
 {
+    "analysisId": "fe12b237-2fbc-4fe3-8ade-401e91804521", 
     "analysisType": "variantCall", 
     "experiment": {
         "libraryStrategy": "WGS", 
@@ -7,7 +8,6 @@
     }, 
     "file": [
         {
-            "analysisId": "fe12b237-2fbc-4fe3-8ade-401e91804521", 
             "fileAccess": "controlled", 
             "fileMd5sum": "1e356eca0833ad360d9516a9b402602b", 
             "fileName": "8151834d-1cc1-4c17-b55e-a7c817529ff9.MUSE_1-0rc-b391201-vcf.20151218.somatic.snv_mnv.vcf.gz.idx", 
@@ -15,7 +15,6 @@
             "fileType": "IDX"
         }, 
         {
-            "analysisId": "fe12b237-2fbc-4fe3-8ade-401e91804521", 
             "fileAccess": "controlled", 
             "fileMd5sum": "d665c0bb817a1f6387573e06daa7f5bd", 
             "fileName": "8151834d-1cc1-4c17-b55e-a7c817529ff9.MUSE_1-0rc-b391201-vcf.20151218.somatic.snv_mnv.vcf.gz", 
@@ -23,7 +22,6 @@
             "fileType": "VCF"
         }, 
         {
-            "analysisId": "fe12b237-2fbc-4fe3-8ade-401e91804521", 
             "fileAccess": "controlled", 
             "fileMd5sum": "10e0a920f863e7d4b8771725def3ee15", 
             "fileName": "fe12b237-2fbc-4fe3-8ade-401e91804521.xml", 
@@ -37,17 +35,12 @@
         {
             "donor": {
                 "donorGender": "unspecified", 
-                "donorId": "DO218091", 
-                "donorSubmitterId": "ICGC_0287", 
-                "studyId": "PAEN-AU"
+                "donorSubmitterId": "ICGC_0287"
             }, 
-            "sampleId": "SA542969", 
             "sampleSubmitterId": "8036078", 
             "sampleType": "DNA", 
             "specimen": {
-                "donorId": "DO218091", 
                 "specimenClass": "Tumour", 
-                "specimenId": "SP117278", 
                 "specimenSubmitterId": "8036078", 
                 "specimenType": "Primary tumour - solid tissue"
             }

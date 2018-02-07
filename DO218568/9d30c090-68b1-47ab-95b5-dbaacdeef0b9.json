@@ -1,4 +1,5 @@
 {
+    "analysisId": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9", 
     "analysisType": "variantCall", 
     "experiment": {
         "libraryStrategy": "WGS", 
@@ -7,7 +8,6 @@
     }, 
     "file": [
         {
-            "analysisId": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9", 
             "fileAccess": "controlled", 
             "fileMd5sum": "69642b7c2b7d505e31ae2e1b4a7ef81f", 
             "fileName": "e976cd1d-82b2-4b7a-9fa5-86817aedfef0.broad-snowman.20150918.somatic.sv.vcf.gz.idx", 
@@ -15,7 +15,6 @@
             "fileType": "IDX"
         }, 
         {
-            "analysisId": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9", 
             "fileAccess": "controlled", 
             "fileMd5sum": "53bd71c9ad77aedfb7398ee8f50bafb2", 
             "fileName": "e976cd1d-82b2-4b7a-9fa5-86817aedfef0.broad-snowman.20150918.somatic.sv.vcf.gz", 
@@ -23,7 +22,6 @@
             "fileType": "VCF"
         }, 
         {
-            "analysisId": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9", 
             "fileAccess": "controlled", 
             "fileMd5sum": "a8f7ea6086488ccc5304ae51d3a0a547", 
             "fileName": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9.xml", 
@@ -31,7 +29,6 @@
             "fileType": "XML"
         }, 
         {
-            "analysisId": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9", 
             "fileAccess": "controlled", 
             "fileMd5sum": "f2a4b61872a6056ec5c73c032df8b410", 
             "fileName": "e976cd1d-82b2-4b7a-9fa5-86817aedfef0.broad-snowman.20150918.somatic.indel.vcf.gz.idx", 
@@ -39,7 +36,6 @@
             "fileType": "IDX"
         }, 
         {
-            "analysisId": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9", 
             "fileAccess": "controlled", 
             "fileMd5sum": "228fd22f8da0e2b058b20039f5ea42b4", 
             "fileName": "e976cd1d-82b2-4b7a-9fa5-86817aedfef0.broad-snowman.20150918.somatic.indel.vcf.gz", 
@@ -47,7 +43,6 @@
             "fileType": "VCF"
         }, 
         {
-            "analysisId": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9", 
             "fileAccess": "controlled", 
             "fileMd5sum": "a8f7ea6086488ccc5304ae51d3a0a547", 
             "fileName": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9.xml", 
@@ -55,7 +50,6 @@
             "fileType": "XML"
         }, 
         {
-            "analysisId": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9", 
             "fileAccess": "controlled", 
             "fileMd5sum": "4c9b52664b946200449aec2247f0d340", 
             "fileName": "e976cd1d-82b2-4b7a-9fa5-86817aedfef0.broad-snowman.20150918.germline.sv.vcf.gz.idx", 
@@ -63,7 +57,6 @@
             "fileType": "IDX"
         }, 
         {
-            "analysisId": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9", 
             "fileAccess": "controlled", 
             "fileMd5sum": "620f1365e73923e65716fc2b159e6e21", 
             "fileName": "e976cd1d-82b2-4b7a-9fa5-86817aedfef0.broad-snowman.20150918.germline.sv.vcf.gz", 
@@ -71,7 +64,6 @@
             "fileType": "VCF"
         }, 
         {
-            "analysisId": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9", 
             "fileAccess": "controlled", 
             "fileMd5sum": "a8f7ea6086488ccc5304ae51d3a0a547", 
             "fileName": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9.xml", 
@@ -79,7 +71,6 @@
             "fileType": "XML"
         }, 
         {
-            "analysisId": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9", 
             "fileAccess": "controlled", 
             "fileMd5sum": "85ccffcc7e5dec98618c51887ef550c4", 
             "fileName": "e976cd1d-82b2-4b7a-9fa5-86817aedfef0.broad-snowman.20150918.germline.indel.vcf.gz.idx", 
@@ -87,7 +78,6 @@
             "fileType": "IDX"
         }, 
         {
-            "analysisId": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9", 
             "fileAccess": "controlled", 
             "fileMd5sum": "4bf4d169e41bbeb341542c7d79f87d73", 
             "fileName": "e976cd1d-82b2-4b7a-9fa5-86817aedfef0.broad-snowman.20150918.germline.indel.vcf.gz", 
@@ -95,7 +85,6 @@
             "fileType": "VCF"
         }, 
         {
-            "analysisId": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9", 
             "fileAccess": "controlled", 
             "fileMd5sum": "a8f7ea6086488ccc5304ae51d3a0a547", 
             "fileName": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9.xml", 
@@ -103,7 +92,6 @@
             "fileType": "XML"
         }, 
         {
-            "analysisId": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9", 
             "fileAccess": "controlled", 
             "fileMd5sum": "99b802719d9e724e7472c3e1ad848140", 
             "fileName": "e976cd1d-82b2-4b7a-9fa5-86817aedfef0.broad-dRanger.20150918.somatic.sv.vcf.gz.idx", 
@@ -111,7 +99,6 @@
             "fileType": "IDX"
         }, 
         {
-            "analysisId": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9", 
             "fileAccess": "controlled", 
             "fileMd5sum": "f453c122e09f07a4bac1db1952bae735", 
             "fileName": "e976cd1d-82b2-4b7a-9fa5-86817aedfef0.broad-dRanger.20150918.somatic.sv.vcf.gz", 
@@ -119,7 +106,6 @@
             "fileType": "VCF"
         }, 
         {
-            "analysisId": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9", 
             "fileAccess": "controlled", 
             "fileMd5sum": "a8f7ea6086488ccc5304ae51d3a0a547", 
             "fileName": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9.xml", 
@@ -127,7 +113,6 @@
             "fileType": "XML"
         }, 
         {
-            "analysisId": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9", 
             "fileAccess": "controlled", 
             "fileMd5sum": "dc55744391624532612bc5d3a525c6a7", 
             "fileName": "e976cd1d-82b2-4b7a-9fa5-86817aedfef0.broad-dRanger_snowman.20150918.somatic.sv.vcf.gz.idx", 
@@ -135,7 +120,6 @@
             "fileType": "IDX"
         }, 
         {
-            "analysisId": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9", 
             "fileAccess": "controlled", 
             "fileMd5sum": "d7867f58cb68fed739f5d1600fcdca1c", 
             "fileName": "e976cd1d-82b2-4b7a-9fa5-86817aedfef0.broad-dRanger_snowman.20150918.somatic.sv.vcf.gz", 
@@ -143,7 +127,6 @@
             "fileType": "VCF"
         }, 
         {
-            "analysisId": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9", 
             "fileAccess": "controlled", 
             "fileMd5sum": "a8f7ea6086488ccc5304ae51d3a0a547", 
             "fileName": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9.xml", 
@@ -151,7 +134,6 @@
             "fileType": "XML"
         }, 
         {
-            "analysisId": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9", 
             "fileAccess": "controlled", 
             "fileMd5sum": "1370e7e8794cb8426435f5537b788ee2", 
             "fileName": "e976cd1d-82b2-4b7a-9fa5-86817aedfef0.broad-mutect-v3.20160222.somatic.snv_mnv.vcf.gz.idx", 
@@ -159,7 +141,6 @@
             "fileType": "IDX"
         }, 
         {
-            "analysisId": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9", 
             "fileAccess": "controlled", 
             "fileMd5sum": "1c19b96c59a6135f61e25047a21b31fa", 
             "fileName": "e976cd1d-82b2-4b7a-9fa5-86817aedfef0.broad-mutect-v3.20160222.somatic.snv_mnv.vcf.gz", 
@@ -167,7 +148,6 @@
             "fileType": "VCF"
         }, 
         {
-            "analysisId": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9", 
             "fileAccess": "controlled", 
             "fileMd5sum": "a8f7ea6086488ccc5304ae51d3a0a547", 
             "fileName": "9d30c090-68b1-47ab-95b5-dbaacdeef0b9.xml", 
@@ -181,17 +161,12 @@
         {
             "donor": {
                 "donorGender": "unspecified", 
-                "donorId": "DO218568", 
-                "donorSubmitterId": "NE-0021", 
-                "studyId": "PAEN-AU"
+                "donorSubmitterId": "NE-0021"
             }, 
-            "sampleId": "SA543815", 
             "sampleSubmitterId": "NE21-T", 
             "sampleType": "DNA", 
             "specimen": {
-                "donorId": "DO218568", 
                 "specimenClass": "Tumour", 
-                "specimenId": "SP117793", 
                 "specimenSubmitterId": "NE21-T", 
                 "specimenType": "Primary tumour - solid tissue"
             }
