@@ -1,0 +1,47 @@
+{
+    "analysisId": "2e0a0e26-d3b6-4708-a858-936dd2f0cf9a", 
+    "analysisType": "sequencingRead", 
+    "experiment": {
+        "libraryStrategy": "RNA-Seq", 
+        "referenceGenome": "GRCh37"
+    }, 
+    "file": [
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "5b9bf585b99f989bc2f01372a7d24110", 
+            "fileName": "PCAWG.feb6bf42-30be-4b2a-bd32-06395898a21d.STAR.v1.bam.bai", 
+            "fileSize": 10002344, 
+            "fileType": "BAI"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "731ca6d27fddb23cdb7e487454519f22", 
+            "fileName": "PCAWG.feb6bf42-30be-4b2a-bd32-06395898a21d.STAR.v1.bam", 
+            "fileSize": 15418714496, 
+            "fileType": "BAM"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "3685638a876ef4867f5f90359d0d3009", 
+            "fileName": "2e0a0e26-d3b6-4708-a858-936dd2f0cf9a.xml", 
+            "fileSize": 39594, 
+            "fileType": "XML"
+        }
+    ], 
+    "info": {}, 
+    "sample": [
+        {
+            "donor": {
+                "donorGender": "unspecified", 
+                "donorSubmitterId": "ICGC_0503"
+            }, 
+            "sampleSubmitterId": "8068966", 
+            "sampleType": "RNA", 
+            "specimen": {
+                "specimenClass": "Tumour", 
+                "specimenSubmitterId": "8068966", 
+                "specimenType": "Primary tumour"
+            }
+        }
+    ]
+}

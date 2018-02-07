@@ -1,0 +1,40 @@
+{
+    "analysisId": "08555425-36bc-4ccc-9486-dedc5cfe634d", 
+    "analysisType": "sequencingRead", 
+    "experiment": {
+        "libraryStrategy": "WGS", 
+        "referenceGenome": "GRCh37"
+    }, 
+    "file": [
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "59b7c0170545581c4d79713c42e09601", 
+            "fileName": "aa0b9c38966d2faf0974143c2ea2bdf0.bam.bai", 
+            "fileSize": 14044088, 
+            "fileType": "BAI"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "aa0b9c38966d2faf0974143c2ea2bdf0", 
+            "fileName": "aa0b9c38966d2faf0974143c2ea2bdf0.bam", 
+            "fileSize": 138026820408, 
+            "fileType": "BAM"
+        }
+    ], 
+    "info": {}, 
+    "sample": [
+        {
+            "donor": {
+                "donorGender": "unspecified", 
+                "donorSubmitterId": "MBRep_T34"
+            }, 
+            "sampleSubmitterId": "MBRep_B34", 
+            "sampleType": "DNA", 
+            "specimen": {
+                "specimenClass": "Normal", 
+                "specimenSubmitterId": "MBRep_B34", 
+                "specimenType": "Normal - blood derived"
+            }
+        }
+    ]
+}

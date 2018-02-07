@@ -1,0 +1,175 @@
+{
+    "analysisId": "2951459e-f47d-4cd9-ad86-10ce9e3e2e79", 
+    "analysisType": "variantCall", 
+    "experiment": {
+        "libraryStrategy": "WGS", 
+        "referenceGenome": "GRCh37", 
+        "variantCallingTool": "DKFZ/EMBL variant call pipeline"
+    }, 
+    "file": [
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "148be211e99fd67b20d2cb14dfbc5350", 
+            "fileName": "8c399a6e-05b9-4ca6-a05e-61e9f373add7.embl-delly_1-0-0-preFilter-hpc.150701.somatic.sv.vcf.gz.tbi", 
+            "fileSize": 7092, 
+            "fileType": "TBI"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "716965159bee4afb76dfa71dec56baed", 
+            "fileName": "8c399a6e-05b9-4ca6-a05e-61e9f373add7.embl-delly_1-0-0-preFilter-hpc.150701.somatic.sv.vcf.gz", 
+            "fileSize": 19803, 
+            "fileType": "VCF"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "211a5796730efd2fbfe428e5c264d152", 
+            "fileName": "2951459e-f47d-4cd9-ad86-10ce9e3e2e79.xml", 
+            "fileSize": 51467, 
+            "fileType": "XML"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "a9daf24b8c5175afd829df1b69c67239", 
+            "fileName": "8c399a6e-05b9-4ca6-a05e-61e9f373add7.embl-delly_1-0-0-preFilter-hpc.150701.germline.sv.vcf.gz.tbi", 
+            "fileSize": 25022, 
+            "fileType": "TBI"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "64c1ce552aee034bddaaff4bfce0958d", 
+            "fileName": "8c399a6e-05b9-4ca6-a05e-61e9f373add7.embl-delly_1-0-0-preFilter-hpc.150701.germline.sv.vcf.gz", 
+            "fileSize": 304582, 
+            "fileType": "VCF"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "211a5796730efd2fbfe428e5c264d152", 
+            "fileName": "2951459e-f47d-4cd9-ad86-10ce9e3e2e79.xml", 
+            "fileSize": 51467, 
+            "fileType": "XML"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "24861f411ca5229cf33b0444c4298c3f", 
+            "fileName": "8c399a6e-05b9-4ca6-a05e-61e9f373add7.dkfz-snvCalling_1-0-132-1-hpc.1510221024.somatic.snv_mnv.vcf.gz.tbi", 
+            "fileSize": 1509797, 
+            "fileType": "TBI"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "9d8a6b245492d53b4c1af11861bb2c78", 
+            "fileName": "8c399a6e-05b9-4ca6-a05e-61e9f373add7.dkfz-snvCalling_1-0-132-1-hpc.1510221024.somatic.snv_mnv.vcf.gz", 
+            "fileSize": 23678954, 
+            "fileType": "VCF"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "211a5796730efd2fbfe428e5c264d152", 
+            "fileName": "2951459e-f47d-4cd9-ad86-10ce9e3e2e79.xml", 
+            "fileSize": 51467, 
+            "fileType": "XML"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "789622579ef6ab471c07c7ae04ea276a", 
+            "fileName": "8c399a6e-05b9-4ca6-a05e-61e9f373add7.dkfz-snvCalling_1-0-132-1-hpc.1510221024.germline.snv_mnv.vcf.gz.tbi", 
+            "fileSize": 1587868, 
+            "fileType": "TBI"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "ee0b0b8301f52175267e0fea6ed47830", 
+            "fileName": "8c399a6e-05b9-4ca6-a05e-61e9f373add7.dkfz-snvCalling_1-0-132-1-hpc.1510221024.germline.snv_mnv.vcf.gz", 
+            "fileSize": 120498677, 
+            "fileType": "VCF"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "211a5796730efd2fbfe428e5c264d152", 
+            "fileName": "2951459e-f47d-4cd9-ad86-10ce9e3e2e79.xml", 
+            "fileSize": 51467, 
+            "fileType": "XML"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "d489916035ddb9e189d12ed9e68ea81e", 
+            "fileName": "8c399a6e-05b9-4ca6-a05e-61e9f373add7.dkfz-indelCalling_1-0-132-1-hpc.1510221024.somatic.indel.vcf.gz.tbi", 
+            "fileSize": 212770, 
+            "fileType": "TBI"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "b0910c8a6ed0b294ce2e64c0b077a004", 
+            "fileName": "8c399a6e-05b9-4ca6-a05e-61e9f373add7.dkfz-indelCalling_1-0-132-1-hpc.1510221024.somatic.indel.vcf.gz", 
+            "fileSize": 1913524, 
+            "fileType": "VCF"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "211a5796730efd2fbfe428e5c264d152", 
+            "fileName": "2951459e-f47d-4cd9-ad86-10ce9e3e2e79.xml", 
+            "fileSize": 51467, 
+            "fileType": "XML"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "d2e58988dc69be98617654c601089013", 
+            "fileName": "8c399a6e-05b9-4ca6-a05e-61e9f373add7.dkfz-indelCalling_1-0-132-1-hpc.1510221024.germline.indel.vcf.gz.tbi", 
+            "fileSize": 1436827, 
+            "fileType": "TBI"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "cb84f3f1fccb6a796334b136bbeade46", 
+            "fileName": "8c399a6e-05b9-4ca6-a05e-61e9f373add7.dkfz-indelCalling_1-0-132-1-hpc.1510221024.germline.indel.vcf.gz", 
+            "fileSize": 68535630, 
+            "fileType": "VCF"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "211a5796730efd2fbfe428e5c264d152", 
+            "fileName": "2951459e-f47d-4cd9-ad86-10ce9e3e2e79.xml", 
+            "fileSize": 51467, 
+            "fileType": "XML"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "de3ac7d6f2728ab59e7ca2b6e02acc4f", 
+            "fileName": "8c399a6e-05b9-4ca6-a05e-61e9f373add7.dkfz-copyNumberEstimation_1-0-189-hpc.1510221024.somatic.cnv.vcf.gz.tbi", 
+            "fileSize": 11089, 
+            "fileType": "TBI"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "e0b094fd7266979ff9f29c25f860005a", 
+            "fileName": "8c399a6e-05b9-4ca6-a05e-61e9f373add7.dkfz-copyNumberEstimation_1-0-189-hpc.1510221024.somatic.cnv.vcf.gz", 
+            "fileSize": 25433, 
+            "fileType": "VCF"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "211a5796730efd2fbfe428e5c264d152", 
+            "fileName": "2951459e-f47d-4cd9-ad86-10ce9e3e2e79.xml", 
+            "fileSize": 51467, 
+            "fileType": "XML"
+        }
+    ], 
+    "info": {}, 
+    "matchedNormalSampleSubmitterId": "", 
+    "sample": [
+        {
+            "donor": {
+                "donorGender": "unspecified", 
+                "donorSubmitterId": "ICGC_0503"
+            }, 
+            "sampleSubmitterId": "8069319", 
+            "sampleType": "DNA", 
+            "specimen": {
+                "specimenClass": "Tumour", 
+                "specimenSubmitterId": "8069319", 
+                "specimenType": "Primary tumour - solid tissue"
+            }
+        }
+    ]
+}

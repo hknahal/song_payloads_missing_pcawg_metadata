@@ -1,0 +1,47 @@
+{
+    "analysisId": "e0f07e27-13d0-4e17-bdb6-7cc475cd1f86", 
+    "analysisType": "sequencingRead", 
+    "experiment": {
+        "libraryStrategy": "WGS", 
+        "referenceGenome": "GRCh37"
+    }, 
+    "file": [
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "3937ff5b02c78efc6fa26b1b5025598f", 
+            "fileName": "9b32db88af152e87a8fc000a7d68aaa4.bam.bai", 
+            "fileSize": 20269952, 
+            "fileType": "BAI"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "9b32db88af152e87a8fc000a7d68aaa4", 
+            "fileName": "9b32db88af152e87a8fc000a7d68aaa4.bam", 
+            "fileSize": 158734314324, 
+            "fileType": "BAM"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "68d88aaba64c4e36d5d82b541480f817", 
+            "fileName": "e0f07e27-13d0-4e17-bdb6-7cc475cd1f86.xml", 
+            "fileSize": 35358, 
+            "fileType": "XML"
+        }
+    ], 
+    "info": {}, 
+    "sample": [
+        {
+            "donor": {
+                "donorGender": "unspecified", 
+                "donorSubmitterId": "ICGC_0503"
+            }, 
+            "sampleSubmitterId": "8069319", 
+            "sampleType": "DNA", 
+            "specimen": {
+                "specimenClass": "Tumour", 
+                "specimenSubmitterId": "8069319", 
+                "specimenType": "Primary tumour - solid tissue"
+            }
+        }
+    ]
+}

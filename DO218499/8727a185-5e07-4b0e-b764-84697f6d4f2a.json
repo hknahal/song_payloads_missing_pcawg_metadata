@@ -1,0 +1,42 @@
+{
+    "analysisId": "8727a185-5e07-4b0e-b764-84697f6d4f2a", 
+    "analysisType": "variantCall", 
+    "experiment": {
+        "libraryStrategy": "WGS", 
+        "referenceGenome": "GRCh37", 
+        "variantCallingTool": "MUSE variant call pipeline"
+    }, 
+    "file": [
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "c38a013cf5618a3d03b347ab605e7a41", 
+            "fileName": "097a024e-a4fd-486c-b165-d3adf50ac96a.MUSE_1-0rc-vcf.20150918.somatic.snv_mnv.vcf.gz.idx", 
+            "fileSize": 55023, 
+            "fileType": "IDX"
+        }, 
+        {
+            "fileAccess": "controlled", 
+            "fileMd5sum": "188076ffee09a782fc657b1d7e44ccbb", 
+            "fileName": "097a024e-a4fd-486c-b165-d3adf50ac96a.MUSE_1-0rc-vcf.20150918.somatic.snv_mnv.vcf.gz", 
+            "fileSize": 95832, 
+            "fileType": "VCF"
+        }
+    ], 
+    "info": {}, 
+    "matchedNormalSampleSubmitterId": "", 
+    "sample": [
+        {
+            "donor": {
+                "donorGender": "unspecified", 
+                "donorSubmitterId": "MBRep_T34"
+            }, 
+            "sampleSubmitterId": "MBRep_T34", 
+            "sampleType": "DNA", 
+            "specimen": {
+                "specimenClass": "Tumour", 
+                "specimenSubmitterId": "MBRep_T34", 
+                "specimenType": "Primary tumour - solid tissue"
+            }
+        }
+    ]
+}
