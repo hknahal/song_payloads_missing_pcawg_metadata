@@ -1,0 +1,58 @@
+{
+    "analysisType": "sequencingRead", 
+    "experiment": {
+        "libraryStrategy": "WGS", 
+        "referenceGenome": "GRCh37"
+    }, 
+    "file": [
+        {
+            "analysisId": "d173af19-0ecb-4f50-9253-232871cbdfab", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "e50dda6c9d7e958eca8a12ea85c2b378", 
+            "fileName": "dc19819370b79d6d1bc92af119b2e4c0.bam.bai", 
+            "fileSize": 25586432, 
+            "fileType": "BAI", 
+            "objectId": "9774c598-9847-5a78-8e89-8e1c893fe194"
+        }, 
+        {
+            "analysisId": "d173af19-0ecb-4f50-9253-232871cbdfab", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "dc19819370b79d6d1bc92af119b2e4c0", 
+            "fileName": "dc19819370b79d6d1bc92af119b2e4c0.bam", 
+            "fileSize": 212563365046, 
+            "fileType": "BAM", 
+            "objectId": "a26c92dd-6928-5157-a664-8e020da30257"
+        }, 
+        {
+            "analysisId": "d173af19-0ecb-4f50-9253-232871cbdfab", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "98ea8e4da40bffd37c190598a6b86034", 
+            "fileName": "d173af19-0ecb-4f50-9253-232871cbdfab.xml", 
+            "fileSize": 35138, 
+            "fileType": "XML", 
+            "objectId": "7942f5bd-fd5d-5dff-8fc8-1e9cd188c4de"
+        }
+    ], 
+    "info": {}, 
+    "sample": [
+        {
+            "donor": {
+                "donorGender": "unspecified", 
+                "donorId": "DO218522", 
+                "donorSubmitterId": "ITNET-0911", 
+                "studyId": "PAEN-AU"
+            }, 
+            "sampleId": "SA543738", 
+            "sampleSubmitterId": "911T", 
+            "sampleType": "DNA", 
+            "specimen": {
+                "donorId": "DO218522", 
+                "specimenClass": "Tumour", 
+                "specimenId": "SP117744", 
+                "specimenSubmitterId": "911T", 
+                "specimenType": "Primary tumour - solid tissue"
+            }, 
+            "specimenId": "SP117744"
+        }
+    ]
+}

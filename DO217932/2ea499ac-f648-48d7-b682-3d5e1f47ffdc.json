@@ -1,0 +1,60 @@
+{
+    "analysisType": "variantCall", 
+    "experiment": {
+        "libraryStrategy": "WGS", 
+        "referenceGenome": "GRCh37", 
+        "variantCallingTool": "MUSE variant call pipeline"
+    }, 
+    "file": [
+        {
+            "analysisId": "2ea499ac-f648-48d7-b682-3d5e1f47ffdc", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "d20a9767c355114e199d60e6a691fdc1", 
+            "fileName": "ff023c8f-1a23-49d2-b0a0-d9a322cd063a.MUSE_1-0rc-vcf.20150918.somatic.snv_mnv.vcf.gz.idx", 
+            "fileSize": 52777, 
+            "fileType": "IDX", 
+            "objectId": "1f514faa-c191-5149-8534-67a46ff75190"
+        }, 
+        {
+            "analysisId": "2ea499ac-f648-48d7-b682-3d5e1f47ffdc", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "25e2c637364a795e17069ec0382f2b0f", 
+            "fileName": "ff023c8f-1a23-49d2-b0a0-d9a322cd063a.MUSE_1-0rc-vcf.20150918.somatic.snv_mnv.vcf.gz", 
+            "fileSize": 133639, 
+            "fileType": "VCF", 
+            "objectId": "5a1e1a4a-359c-581b-be05-b11ea0f57b44"
+        }, 
+        {
+            "analysisId": "2ea499ac-f648-48d7-b682-3d5e1f47ffdc", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "f72545c2bed8cb9a04da1f9065014c74", 
+            "fileName": "2ea499ac-f648-48d7-b682-3d5e1f47ffdc.xml", 
+            "fileSize": 36614, 
+            "fileType": "XML", 
+            "objectId": "cd866d5b-f954-53af-aad2-76f1162852ef"
+        }
+    ], 
+    "info": {}, 
+    "matchedNormalSampleSubmitterId": "", 
+    "sample": [
+        {
+            "donor": {
+                "donorGender": "unspecified", 
+                "donorId": "DO217932", 
+                "donorSubmitterId": "NE-0012", 
+                "studyId": "PAEN-AU"
+            }, 
+            "sampleId": "SA542684", 
+            "sampleSubmitterId": "NE12-T", 
+            "sampleType": "DNA", 
+            "specimen": {
+                "donorId": "DO217932", 
+                "specimenClass": "Tumour", 
+                "specimenId": "SP117106", 
+                "specimenSubmitterId": "NE12-T", 
+                "specimenType": "Primary tumour - solid tissue"
+            }, 
+            "specimenId": "SP117106"
+        }
+    ]
+}

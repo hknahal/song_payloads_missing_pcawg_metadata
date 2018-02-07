@@ -1,0 +1,222 @@
+{
+    "analysisType": "variantCall", 
+    "experiment": {
+        "libraryStrategy": "WGS", 
+        "referenceGenome": "GRCh37", 
+        "variantCallingTool": "DKFZ/EMBL variant call pipeline"
+    }, 
+    "file": [
+        {
+            "analysisId": "a0e360ad-be31-4a7c-97ec-447a791eaa40", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "f63e7b80847921f0b3a30a7db383b912", 
+            "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.embl-delly_1-0-0-preFilter-hpc.150702.somatic.sv.vcf.gz.tbi", 
+            "fileSize": 6250, 
+            "fileType": "TBI", 
+            "objectId": "970c280d-2034-51ab-ae1d-285d63b140c3"
+        }, 
+        {
+            "analysisId": "a0e360ad-be31-4a7c-97ec-447a791eaa40", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "b91df55a8dfc66067ac7d6a12dfe45f4", 
+            "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.embl-delly_1-0-0-preFilter-hpc.150702.somatic.sv.vcf.gz", 
+            "fileSize": 16715, 
+            "fileType": "VCF", 
+            "objectId": "ea86951b-6ffb-565a-9a78-feb89663ed62"
+        }, 
+        {
+            "analysisId": "a0e360ad-be31-4a7c-97ec-447a791eaa40", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "7f8039055e7f0d79a03ad43b1395c249", 
+            "fileName": "a0e360ad-be31-4a7c-97ec-447a791eaa40.xml", 
+            "fileSize": 51889, 
+            "fileType": "XML", 
+            "objectId": "6f1e471b-0be2-5c2f-9348-ab77652afdaf"
+        }, 
+        {
+            "analysisId": "a0e360ad-be31-4a7c-97ec-447a791eaa40", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "b92117cfd0476a5331a0deba3430e16f", 
+            "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.embl-delly_1-0-0-preFilter-hpc.150702.germline.sv.vcf.gz.tbi", 
+            "fileSize": 27613, 
+            "fileType": "TBI", 
+            "objectId": "3ab427b5-b1e9-5ccc-aa49-70863e671903"
+        }, 
+        {
+            "analysisId": "a0e360ad-be31-4a7c-97ec-447a791eaa40", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "405d1d0bbb65be48de1bc9757d1a3e44", 
+            "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.embl-delly_1-0-0-preFilter-hpc.150702.germline.sv.vcf.gz", 
+            "fileSize": 342000, 
+            "fileType": "VCF", 
+            "objectId": "7a1563a0-5ed8-5c75-9140-ee023f87a81d"
+        }, 
+        {
+            "analysisId": "a0e360ad-be31-4a7c-97ec-447a791eaa40", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "7f8039055e7f0d79a03ad43b1395c249", 
+            "fileName": "a0e360ad-be31-4a7c-97ec-447a791eaa40.xml", 
+            "fileSize": 51889, 
+            "fileType": "XML", 
+            "objectId": "6f1e471b-0be2-5c2f-9348-ab77652afdaf"
+        }, 
+        {
+            "analysisId": "a0e360ad-be31-4a7c-97ec-447a791eaa40", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "11c593037e9b5d7a02844500ee7be748", 
+            "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.dkfz-snvCalling_1-0-132-1-hpc.1510221004.somatic.snv_mnv.vcf.gz.tbi", 
+            "fileSize": 325444, 
+            "fileType": "TBI", 
+            "objectId": "fbcbe7cf-4887-565e-89cf-4fa5a548a93d"
+        }, 
+        {
+            "analysisId": "a0e360ad-be31-4a7c-97ec-447a791eaa40", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "3d530384ac666cd848eb66dc7691c68f", 
+            "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.dkfz-snvCalling_1-0-132-1-hpc.1510221004.somatic.snv_mnv.vcf.gz", 
+            "fileSize": 887021, 
+            "fileType": "VCF", 
+            "objectId": "557a3999-5855-5a9b-8fb1-9d1fe7df16f3"
+        }, 
+        {
+            "analysisId": "a0e360ad-be31-4a7c-97ec-447a791eaa40", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "7f8039055e7f0d79a03ad43b1395c249", 
+            "fileName": "a0e360ad-be31-4a7c-97ec-447a791eaa40.xml", 
+            "fileSize": 51889, 
+            "fileType": "XML", 
+            "objectId": "6f1e471b-0be2-5c2f-9348-ab77652afdaf"
+        }, 
+        {
+            "analysisId": "a0e360ad-be31-4a7c-97ec-447a791eaa40", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "f67a04ca5422dc9119041c89c98be14a", 
+            "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.dkfz-snvCalling_1-0-132-1-hpc.1510221004.germline.snv_mnv.vcf.gz.tbi", 
+            "fileSize": 1565882, 
+            "fileType": "TBI", 
+            "objectId": "463dceff-c881-566b-8c3d-706c01710d73"
+        }, 
+        {
+            "analysisId": "a0e360ad-be31-4a7c-97ec-447a791eaa40", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "b1973332ba8b79368ba60d67f6bad809", 
+            "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.dkfz-snvCalling_1-0-132-1-hpc.1510221004.germline.snv_mnv.vcf.gz", 
+            "fileSize": 111470448, 
+            "fileType": "VCF", 
+            "objectId": "a883862e-493d-56e0-a4e6-454c02c5e38b"
+        }, 
+        {
+            "analysisId": "a0e360ad-be31-4a7c-97ec-447a791eaa40", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "7f8039055e7f0d79a03ad43b1395c249", 
+            "fileName": "a0e360ad-be31-4a7c-97ec-447a791eaa40.xml", 
+            "fileSize": 51889, 
+            "fileType": "XML", 
+            "objectId": "6f1e471b-0be2-5c2f-9348-ab77652afdaf"
+        }, 
+        {
+            "analysisId": "a0e360ad-be31-4a7c-97ec-447a791eaa40", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "959ef44ad824f2eb8fe2346d76ac9f23", 
+            "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.dkfz-indelCalling_1-0-132-1-hpc.1510221004.somatic.indel.vcf.gz.tbi", 
+            "fileSize": 161846, 
+            "fileType": "TBI", 
+            "objectId": "4ef2b480-3345-5513-bc5c-272d612b9fd2"
+        }, 
+        {
+            "analysisId": "a0e360ad-be31-4a7c-97ec-447a791eaa40", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "868d03a1f1f58eded40509212d67fa60", 
+            "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.dkfz-indelCalling_1-0-132-1-hpc.1510221004.somatic.indel.vcf.gz", 
+            "fileSize": 1416180, 
+            "fileType": "VCF", 
+            "objectId": "0e476fbc-2bbd-57b1-a7cd-31af9e5a232f"
+        }, 
+        {
+            "analysisId": "a0e360ad-be31-4a7c-97ec-447a791eaa40", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "7f8039055e7f0d79a03ad43b1395c249", 
+            "fileName": "a0e360ad-be31-4a7c-97ec-447a791eaa40.xml", 
+            "fileSize": 51889, 
+            "fileType": "XML", 
+            "objectId": "6f1e471b-0be2-5c2f-9348-ab77652afdaf"
+        }, 
+        {
+            "analysisId": "a0e360ad-be31-4a7c-97ec-447a791eaa40", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "354d332d51896c9079292de468609cc1", 
+            "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.dkfz-indelCalling_1-0-132-1-hpc.1510221004.germline.indel.vcf.gz.tbi", 
+            "fileSize": 1447784, 
+            "fileType": "TBI", 
+            "objectId": "43e9e974-397c-585b-9632-c0d4b730fadd"
+        }, 
+        {
+            "analysisId": "a0e360ad-be31-4a7c-97ec-447a791eaa40", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "a252499e4c0e12e1b1fc435692896150", 
+            "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.dkfz-indelCalling_1-0-132-1-hpc.1510221004.germline.indel.vcf.gz", 
+            "fileSize": 69013632, 
+            "fileType": "VCF", 
+            "objectId": "a7753764-47a7-5d69-9764-686aa5614309"
+        }, 
+        {
+            "analysisId": "a0e360ad-be31-4a7c-97ec-447a791eaa40", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "7f8039055e7f0d79a03ad43b1395c249", 
+            "fileName": "a0e360ad-be31-4a7c-97ec-447a791eaa40.xml", 
+            "fileSize": 51889, 
+            "fileType": "XML", 
+            "objectId": "6f1e471b-0be2-5c2f-9348-ab77652afdaf"
+        }, 
+        {
+            "analysisId": "a0e360ad-be31-4a7c-97ec-447a791eaa40", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "92d3cbd19903f816008be61aa68f0572", 
+            "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.dkfz-copyNumberEstimation_1-0-189-hpc.1510221004.somatic.cnv.vcf.gz.tbi", 
+            "fileSize": 10659, 
+            "fileType": "TBI", 
+            "objectId": "ce306729-189a-50a0-8a7a-15095c67f99a"
+        }, 
+        {
+            "analysisId": "a0e360ad-be31-4a7c-97ec-447a791eaa40", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "d1e54435d1291969c511a8cd068f2ecf", 
+            "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.dkfz-copyNumberEstimation_1-0-189-hpc.1510221004.somatic.cnv.vcf.gz", 
+            "fileSize": 24096, 
+            "fileType": "VCF", 
+            "objectId": "fbe84472-831a-5ebb-ac36-24fe52892b1e"
+        }, 
+        {
+            "analysisId": "a0e360ad-be31-4a7c-97ec-447a791eaa40", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "7f8039055e7f0d79a03ad43b1395c249", 
+            "fileName": "a0e360ad-be31-4a7c-97ec-447a791eaa40.xml", 
+            "fileSize": 51889, 
+            "fileType": "XML", 
+            "objectId": "6f1e471b-0be2-5c2f-9348-ab77652afdaf"
+        }
+    ], 
+    "info": {}, 
+    "matchedNormalSampleSubmitterId": "", 
+    "sample": [
+        {
+            "donor": {
+                "donorGender": "unspecified", 
+                "donorId": "DO218032", 
+                "donorSubmitterId": "NE-0009", 
+                "studyId": "PAEN-AU"
+            }, 
+            "sampleId": "SA542866", 
+            "sampleSubmitterId": "NE9-T", 
+            "sampleType": "DNA", 
+            "specimen": {
+                "donorId": "DO218032", 
+                "specimenClass": "Tumour", 
+                "specimenId": "SP117212", 
+                "specimenSubmitterId": "NE9-T", 
+                "specimenType": "Primary tumour - solid tissue"
+            }, 
+            "specimenId": "SP117212"
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "analysisType": "variantCall", 
+    "experiment": {
+        "libraryStrategy": "WGS", 
+        "referenceGenome": "GRCh37", 
+        "variantCallingTool": "Sanger variant call pipeline"
+    }, 
+    "file": [
+        {
+            "analysisId": "02437ae6-d281-11e5-b76e-e3105c6878de", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "3df2d05cb084a03893f98aa98a13e929", 
+            "fileName": "8151834d-1cc1-4c17-b55e-a7c817529ff9.svcp_1-0-6.20150421.somatic.indel.vcf.gz.tbi", 
+            "fileSize": 1447631, 
+            "fileType": "TBI", 
+            "objectId": "9f0818c6-fea9-511c-bda3-a086f8727eec"
+        }, 
+        {
+            "analysisId": "02437ae6-d281-11e5-b76e-e3105c6878de", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "1e6895617f02336d04a0c570e111282a", 
+            "fileName": "8151834d-1cc1-4c17-b55e-a7c817529ff9.svcp_1-0-6.20150421.somatic.indel.vcf.gz", 
+            "fileSize": 50916112, 
+            "fileType": "VCF", 
+            "objectId": "9ac72fbf-58f9-5062-94e9-61628f11e7f8"
+        }, 
+        {
+            "analysisId": "02437ae6-d281-11e5-b76e-e3105c6878de", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "ce3376bf874c3e4fc97d5e540ef6d066", 
+            "fileName": "02437ae6-d281-11e5-b76e-e3105c6878de.xml", 
+            "fileSize": 58844, 
+            "fileType": "XML", 
+            "objectId": "a60cf466-d8a6-569a-8639-d5c81ee37e29"
+        }, 
+        {
+            "analysisId": "02437ae6-d281-11e5-b76e-e3105c6878de", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "14dabd65fb1d8c7c3b7e1bb7da10a003", 
+            "fileName": "8151834d-1cc1-4c17-b55e-a7c817529ff9.svfix2_4-0-12.20160213.somatic.sv.vcf.gz.tbi", 
+            "fileSize": 1098, 
+            "fileType": "TBI", 
+            "objectId": "17d94018-d3bd-55b1-be46-0d8031b15c20"
+        }, 
+        {
+            "analysisId": "02437ae6-d281-11e5-b76e-e3105c6878de", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "2776ca2dd34d88f9401bc6b316b3de68", 
+            "fileName": "8151834d-1cc1-4c17-b55e-a7c817529ff9.svfix2_4-0-12.20160213.somatic.sv.vcf.gz", 
+            "fileSize": 7088, 
+            "fileType": "VCF", 
+            "objectId": "31d75909-5329-5e78-95ca-c650d035dcb1"
+        }, 
+        {
+            "analysisId": "02437ae6-d281-11e5-b76e-e3105c6878de", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "ce3376bf874c3e4fc97d5e540ef6d066", 
+            "fileName": "02437ae6-d281-11e5-b76e-e3105c6878de.xml", 
+            "fileSize": 58844, 
+            "fileType": "XML", 
+            "objectId": "a60cf466-d8a6-569a-8639-d5c81ee37e29"
+        }, 
+        {
+            "analysisId": "02437ae6-d281-11e5-b76e-e3105c6878de", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "5a436b535e251330480d456bcc20ba0a", 
+            "fileName": "8151834d-1cc1-4c17-b55e-a7c817529ff9.svcp_1-0-6.20150421.somatic.cnv.vcf.gz.tbi", 
+            "fileSize": 4232, 
+            "fileType": "TBI", 
+            "objectId": "e3c91e04-e477-53f5-8dac-a164fc93a70c"
+        }, 
+        {
+            "analysisId": "02437ae6-d281-11e5-b76e-e3105c6878de", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "cc606a263e36da50e66deee81d1ee525", 
+            "fileName": "8151834d-1cc1-4c17-b55e-a7c817529ff9.svcp_1-0-6.20150421.somatic.cnv.vcf.gz", 
+            "fileSize": 2089, 
+            "fileType": "VCF", 
+            "objectId": "b0e5ba24-d6d4-5981-ba01-d711e3a7f919"
+        }, 
+        {
+            "analysisId": "02437ae6-d281-11e5-b76e-e3105c6878de", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "ce3376bf874c3e4fc97d5e540ef6d066", 
+            "fileName": "02437ae6-d281-11e5-b76e-e3105c6878de.xml", 
+            "fileSize": 58844, 
+            "fileType": "XML", 
+            "objectId": "a60cf466-d8a6-569a-8639-d5c81ee37e29"
+        }, 
+        {
+            "analysisId": "02437ae6-d281-11e5-b76e-e3105c6878de", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "bd741a2368b29b47462e16c8e535e893", 
+            "fileName": "8151834d-1cc1-4c17-b55e-a7c817529ff9.svcp_1-0-6.20150421.somatic.snv_mnv.vcf.gz.tbi", 
+            "fileSize": 550192, 
+            "fileType": "TBI", 
+            "objectId": "5ca59beb-5b68-5f27-bb73-858d8fdc34e2"
+        }, 
+        {
+            "analysisId": "02437ae6-d281-11e5-b76e-e3105c6878de", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "0d8f90e193fec5dacb7305e5770e50cd", 
+            "fileName": "8151834d-1cc1-4c17-b55e-a7c817529ff9.svcp_1-0-6.20150421.somatic.snv_mnv.vcf.gz", 
+            "fileSize": 4574790, 
+            "fileType": "VCF", 
+            "objectId": "4d4f7d9f-2e1a-5b2b-be41-9fd80b4c6915"
+        }, 
+        {
+            "analysisId": "02437ae6-d281-11e5-b76e-e3105c6878de", 
+            "fileAccess": "controlled", 
+            "fileMd5sum": "ce3376bf874c3e4fc97d5e540ef6d066", 
+            "fileName": "02437ae6-d281-11e5-b76e-e3105c6878de.xml", 
+            "fileSize": 58844, 
+            "fileType": "XML", 
+            "objectId": "a60cf466-d8a6-569a-8639-d5c81ee37e29"
+        }
+    ], 
+    "info": {}, 
+    "matchedNormalSampleSubmitterId": "", 
+    "sample": [
+        {
+            "donor": {
+                "donorGender": "unspecified", 
+                "donorId": "DO218091", 
+                "donorSubmitterId": "ICGC_0287", 
+                "studyId": "PAEN-AU"
+            }, 
+            "sampleId": "SA542969", 
+            "sampleSubmitterId": "8036078", 
+            "sampleType": "DNA", 
+            "specimen": {
+                "donorId": "DO218091", 
+                "specimenClass": "Tumour", 
+                "specimenId": "SP117278", 
+                "specimenSubmitterId": "8036078", 
+                "specimenType": "Primary tumour - solid tissue"
+            }, 
+            "specimenId": "SP117278"
+        }
+    ]
+}
