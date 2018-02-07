@@ -11,8 +11,7 @@
             "fileMd5sum": "edd6fb2b2183536bf260d5a41261ba36", 
             "fileName": "48df73cb6c731a6e0caeb0c61630212e.bam.bai", 
             "fileSize": 18168600, 
-            "fileType": "BAI", 
-            "objectId": "a30330a0-31f4-5731-805a-4b405afa16ec"
+            "fileType": "BAI"
         }, 
         {
             "analysisId": "36b19354-afa0-43f8-838a-76aa3b34f17d", 
@@ -20,8 +19,7 @@
             "fileMd5sum": "48df73cb6c731a6e0caeb0c61630212e", 
             "fileName": "48df73cb6c731a6e0caeb0c61630212e.bam", 
             "fileSize": 226173483507, 
-            "fileType": "BAM", 
-            "objectId": "b0f1b5d6-6eaf-5fff-bc86-7a9a18029027"
+            "fileType": "BAM"
         }, 
         {
             "analysisId": "36b19354-afa0-43f8-838a-76aa3b34f17d", 
@@ -29,8 +27,7 @@
             "fileMd5sum": "ffece15eedd9b32eed7181dc0fcb3f68", 
             "fileName": "36b19354-afa0-43f8-838a-76aa3b34f17d.xml", 
             "fileSize": 34312, 
-            "fileType": "XML", 
-            "objectId": "225bd084-c9f0-545d-8fdd-bd5cbecafb28"
+            "fileType": "XML"
         }
     ], 
     "info": {}, 
@@ -51,8 +48,7 @@
                 "specimenId": "SP117278", 
                 "specimenSubmitterId": "8036078", 
                 "specimenType": "Primary tumour - solid tissue"
-            }, 
-            "specimenId": "SP117278"
+            }
         }
     ]
 }

@@ -12,8 +12,7 @@
             "fileMd5sum": "8cd5f8313ab0841601c6bcd2879dd0ee", 
             "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.svcp_1-0-4.20150215.somatic.indel.vcf.gz.tbi", 
             "fileSize": 1485168, 
-            "fileType": "TBI", 
-            "objectId": "2541a17a-c973-5750-bb5a-db392a633a38"
+            "fileType": "TBI"
         }, 
         {
             "analysisId": "1c55489c-d349-11e5-b5fc-61145c6878de", 
@@ -21,8 +20,7 @@
             "fileMd5sum": "e79f92b1cf11a8b14f4c59c1e8b78cfc", 
             "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.svcp_1-0-4.20150215.somatic.indel.vcf.gz", 
             "fileSize": 57073699, 
-            "fileType": "VCF", 
-            "objectId": "d8b9915f-12ed-593b-a21f-bbf54748322c"
+            "fileType": "VCF"
         }, 
         {
             "analysisId": "1c55489c-d349-11e5-b5fc-61145c6878de", 
@@ -30,8 +28,7 @@
             "fileMd5sum": "96a25ac097bfe283fa8c6fd9caa16583", 
             "fileName": "1c55489c-d349-11e5-b5fc-61145c6878de.xml", 
             "fileSize": 58692, 
-            "fileType": "XML", 
-            "objectId": "afb8d123-ca20-5f9e-b478-104efaff49f9"
+            "fileType": "XML"
         }, 
         {
             "analysisId": "1c55489c-d349-11e5-b5fc-61145c6878de", 
@@ -39,8 +36,7 @@
             "fileMd5sum": "a9a5bf011e1df20d7a7276f517424366", 
             "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.svfix2_4-0-12.20160214.somatic.sv.vcf.gz.tbi", 
             "fileSize": 2116, 
-            "fileType": "TBI", 
-            "objectId": "e0629722-7351-50f6-b5bf-2dec91adedd3"
+            "fileType": "TBI"
         }, 
         {
             "analysisId": "1c55489c-d349-11e5-b5fc-61145c6878de", 
@@ -48,8 +44,7 @@
             "fileMd5sum": "2d8426f3f70c29c348a1b792de356f78", 
             "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.svfix2_4-0-12.20160214.somatic.sv.vcf.gz", 
             "fileSize": 19762, 
-            "fileType": "VCF", 
-            "objectId": "7d076a6d-750f-5583-b763-f102d0be6195"
+            "fileType": "VCF"
         }, 
         {
             "analysisId": "1c55489c-d349-11e5-b5fc-61145c6878de", 
@@ -57,8 +52,7 @@
             "fileMd5sum": "96a25ac097bfe283fa8c6fd9caa16583", 
             "fileName": "1c55489c-d349-11e5-b5fc-61145c6878de.xml", 
             "fileSize": 58692, 
-            "fileType": "XML", 
-            "objectId": "afb8d123-ca20-5f9e-b478-104efaff49f9"
+            "fileType": "XML"
         }, 
         {
             "analysisId": "1c55489c-d349-11e5-b5fc-61145c6878de", 
@@ -66,8 +60,7 @@
             "fileMd5sum": "4f20a6e83cc1e6044f8fdd222973af1d", 
             "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.svcp_1-0-4.20150215.somatic.cnv.vcf.gz.tbi", 
             "fileSize": 4410, 
-            "fileType": "TBI", 
-            "objectId": "f7f67b44-ecd7-52cb-bae7-6e67180bcdf4"
+            "fileType": "TBI"
         }, 
         {
             "analysisId": "1c55489c-d349-11e5-b5fc-61145c6878de", 
@@ -75,8 +68,7 @@
             "fileMd5sum": "8b8d42e887a34e62a6fe6189a0f4756b", 
             "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.svcp_1-0-4.20150215.somatic.cnv.vcf.gz", 
             "fileSize": 2413, 
-            "fileType": "VCF", 
-            "objectId": "d54adf3b-47ff-59cb-a2fd-6afcbb6f1340"
+            "fileType": "VCF"
         }, 
         {
             "analysisId": "1c55489c-d349-11e5-b5fc-61145c6878de", 
@@ -84,8 +76,7 @@
             "fileMd5sum": "96a25ac097bfe283fa8c6fd9caa16583", 
             "fileName": "1c55489c-d349-11e5-b5fc-61145c6878de.xml", 
             "fileSize": 58692, 
-            "fileType": "XML", 
-            "objectId": "afb8d123-ca20-5f9e-b478-104efaff49f9"
+            "fileType": "XML"
         }, 
         {
             "analysisId": "1c55489c-d349-11e5-b5fc-61145c6878de", 
@@ -93,8 +84,7 @@
             "fileMd5sum": "28b93db81797f2d688d0dd1fcd687ce3", 
             "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.svcp_1-0-4.20150215.somatic.snv_mnv.vcf.gz.tbi", 
             "fileSize": 362210, 
-            "fileType": "TBI", 
-            "objectId": "639269a3-b600-5de9-8be9-6fbec52cad48"
+            "fileType": "TBI"
         }, 
         {
             "analysisId": "1c55489c-d349-11e5-b5fc-61145c6878de", 
@@ -102,8 +92,7 @@
             "fileMd5sum": "f335873ec02ff07e8d86f7a2d5f96374", 
             "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.svcp_1-0-4.20150215.somatic.snv_mnv.vcf.gz", 
             "fileSize": 2230683, 
-            "fileType": "VCF", 
-            "objectId": "e6d8af45-7615-5f4d-b46e-f61c7b912095"
+            "fileType": "VCF"
         }, 
         {
             "analysisId": "1c55489c-d349-11e5-b5fc-61145c6878de", 
@@ -111,8 +100,7 @@
             "fileMd5sum": "96a25ac097bfe283fa8c6fd9caa16583", 
             "fileName": "1c55489c-d349-11e5-b5fc-61145c6878de.xml", 
             "fileSize": 58692, 
-            "fileType": "XML", 
-            "objectId": "afb8d123-ca20-5f9e-b478-104efaff49f9"
+            "fileType": "XML"
         }
     ], 
     "info": {}, 
@@ -134,8 +122,7 @@
                 "specimenId": "SP117212", 
                 "specimenSubmitterId": "NE9-T", 
                 "specimenType": "Primary tumour - solid tissue"
-            }, 
-            "specimenId": "SP117212"
+            }
         }
     ]
 }

@@ -11,8 +11,7 @@
             "fileMd5sum": "b8f3d8540efe1857ef1ca7d4acb740f9", 
             "fileName": "44ff0d85b8428f97ec4e7c1e3e35b6a8.bam.bai", 
             "fileSize": 10572760, 
-            "fileType": "BAI", 
-            "objectId": "182f6356-169f-5011-aec2-bdc093415730"
+            "fileType": "BAI"
         }, 
         {
             "analysisId": "d2f6c389-9f31-43a2-b35b-336548882423", 
@@ -20,8 +19,7 @@
             "fileMd5sum": "44ff0d85b8428f97ec4e7c1e3e35b6a8", 
             "fileName": "44ff0d85b8428f97ec4e7c1e3e35b6a8.bam", 
             "fileSize": 44053599974, 
-            "fileType": "BAM", 
-            "objectId": "886b31bc-cb6e-52c8-8e8a-3cb2696101e2"
+            "fileType": "BAM"
         }, 
         {
             "analysisId": "d2f6c389-9f31-43a2-b35b-336548882423", 
@@ -29,8 +27,7 @@
             "fileMd5sum": "36d7e11ce2bd699f32644fa8325b95d0", 
             "fileName": "d2f6c389-9f31-43a2-b35b-336548882423.xml", 
             "fileSize": 29814, 
-            "fileType": "XML", 
-            "objectId": "a16edc92-df53-5a4b-91a2-f31077991293"
+            "fileType": "XML"
         }
     ], 
     "info": {}, 
@@ -51,8 +48,7 @@
                 "specimenId": "SP119149", 
                 "specimenSubmitterId": "NE18-N", 
                 "specimenType": "Normal - blood derived"
-            }, 
-            "specimenId": "SP119149"
+            }
         }
     ]
 }

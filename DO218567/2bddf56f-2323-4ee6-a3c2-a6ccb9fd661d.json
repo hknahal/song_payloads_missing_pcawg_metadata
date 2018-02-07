@@ -11,8 +11,7 @@
             "fileMd5sum": "a87ff371d42032589a0c260fa794a023", 
             "fileName": "7e3805c902b8e04b94fb728919f340fd.bam.bai", 
             "fileSize": 18515664, 
-            "fileType": "BAI", 
-            "objectId": "7c06c926-76eb-51f5-b256-1663274be15b"
+            "fileType": "BAI"
         }, 
         {
             "analysisId": "2bddf56f-2323-4ee6-a3c2-a6ccb9fd661d", 
@@ -20,8 +19,7 @@
             "fileMd5sum": "7e3805c902b8e04b94fb728919f340fd", 
             "fileName": "7e3805c902b8e04b94fb728919f340fd.bam", 
             "fileSize": 112103041797, 
-            "fileType": "BAM", 
-            "objectId": "c950f777-7e2b-51ba-a032-c07bd2863e8b"
+            "fileType": "BAM"
         }, 
         {
             "analysisId": "2bddf56f-2323-4ee6-a3c2-a6ccb9fd661d", 
@@ -29,8 +27,7 @@
             "fileMd5sum": "03c3907a159da31a05156ad20f9cce68", 
             "fileName": "2bddf56f-2323-4ee6-a3c2-a6ccb9fd661d.xml", 
             "fileSize": 40678, 
-            "fileType": "XML", 
-            "objectId": "f283ed9d-5475-5a48-b3e8-c75e1c3b76fb"
+            "fileType": "XML"
         }
     ], 
     "info": {}, 
@@ -51,8 +48,7 @@
                 "specimenId": "SP117792", 
                 "specimenSubmitterId": "NE26-T", 
                 "specimenType": "Primary tumour - solid tissue"
-            }, 
-            "specimenId": "SP117792"
+            }
         }
     ]
 }

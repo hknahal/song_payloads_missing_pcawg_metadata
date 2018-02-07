@@ -12,8 +12,7 @@
             "fileMd5sum": "56a1189ba0080bc5849f7b9fb299804a", 
             "fileName": "f02212df-2f5a-4093-bfaf-4a8403d26629.MUSE_1-0rc-vcf.20151217.somatic.snv_mnv.vcf.gz.idx", 
             "fileSize": 63891, 
-            "fileType": "IDX", 
-            "objectId": "3b93c40c-ff9b-5740-916d-40f4c6ef1cb9"
+            "fileType": "IDX"
         }, 
         {
             "analysisId": "65a58517-da22-427e-a705-9a040767fc20", 
@@ -21,8 +20,7 @@
             "fileMd5sum": "77581987c885c611910aadf8a3ba19aa", 
             "fileName": "f02212df-2f5a-4093-bfaf-4a8403d26629.MUSE_1-0rc-vcf.20151217.somatic.snv_mnv.vcf.gz", 
             "fileSize": 130260, 
-            "fileType": "VCF", 
-            "objectId": "5151afb8-e39e-50de-9758-5c27a5d83f34"
+            "fileType": "VCF"
         }, 
         {
             "analysisId": "65a58517-da22-427e-a705-9a040767fc20", 
@@ -30,8 +28,7 @@
             "fileMd5sum": "9b8af144c0a8fc88efe0bace6f265775", 
             "fileName": "65a58517-da22-427e-a705-9a040767fc20.xml", 
             "fileSize": 34640, 
-            "fileType": "XML", 
-            "objectId": "ce9b5671-bdf6-5aa2-973d-223d9a2c33db"
+            "fileType": "XML"
         }
     ], 
     "info": {}, 
@@ -53,8 +50,7 @@
                 "specimenId": "SP117590", 
                 "specimenSubmitterId": "NE10-T", 
                 "specimenType": "Primary tumour - solid tissue"
-            }, 
-            "specimenId": "SP117590"
+            }
         }
     ]
 }

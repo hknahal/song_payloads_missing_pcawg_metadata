@@ -11,8 +11,7 @@
             "fileMd5sum": "9c9ba3403690f80d589b9c99da387842", 
             "fileName": "5030694ede7aa418eb934cae62bccc7f.bam.bai", 
             "fileSize": 21089048, 
-            "fileType": "BAI", 
-            "objectId": "d904583d-35fd-5a2d-a66d-59644c88a983"
+            "fileType": "BAI"
         }, 
         {
             "analysisId": "336ffddc-0d81-44fd-9423-f5548f0880d0", 
@@ -20,8 +19,7 @@
             "fileMd5sum": "5030694ede7aa418eb934cae62bccc7f", 
             "fileName": "5030694ede7aa418eb934cae62bccc7f.bam", 
             "fileSize": 131281722779, 
-            "fileType": "BAM", 
-            "objectId": "b1de2a1a-3112-54c2-8f92-2c2b140d8d1b"
+            "fileType": "BAM"
         }, 
         {
             "analysisId": "336ffddc-0d81-44fd-9423-f5548f0880d0", 
@@ -29,8 +27,7 @@
             "fileMd5sum": "5103caa6254dcf6fc17bbd21e763faa9", 
             "fileName": "336ffddc-0d81-44fd-9423-f5548f0880d0.xml", 
             "fileSize": 31118, 
-            "fileType": "XML", 
-            "objectId": "0da0fa25-e8fe-55d4-8861-6b90717b8047"
+            "fileType": "XML"
         }
     ], 
     "info": {}, 
@@ -51,8 +48,7 @@
                 "specimenId": "SP118861", 
                 "specimenSubmitterId": "911N", 
                 "specimenType": "Normal - solid tissue"
-            }, 
-            "specimenId": "SP118861"
+            }
         }
     ]
 }
