@@ -4,7 +4,8 @@
     "experiment": {
         "libraryStrategy": "WGS", 
         "referenceGenome": "GRCh37", 
-        "variantCallingTool": "Sanger variant call pipeline"
+        "variantCallingTool": "Sanger variant call pipeline",
+        "matchedNormalSampleSubmitterId": "8036079"
     }, 
     "file": [
         {
@@ -93,7 +94,6 @@
         }
     ], 
     "info": {}, 
-    "matchedNormalSampleSubmitterId": "", 
     "sample": [
         {
             "donor": {
