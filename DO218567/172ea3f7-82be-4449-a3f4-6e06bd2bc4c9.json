@@ -3,10 +3,18 @@
     "analysisType": "variantCall", 
     "experiment": {
         "libraryStrategy": "WGS", 
+        "matchedNormalSampleSubmitterId": "NE26-N", 
         "referenceGenome": "GRCh37", 
         "variantCallingTool": "Broad variant call pipeline"
     }, 
     "file": [
+        {
+            "fileAccess": "open", 
+            "fileMd5sum": "e7d55b92616c8912605b757626466568", 
+            "fileName": "172ea3f7-82be-4449-a3f4-6e06bd2bc4c9.xml", 
+            "fileSize": 41694, 
+            "fileType": "XML"
+        }, 
         {
             "fileAccess": "controlled", 
             "fileMd5sum": "7f038d227d5c130c7fefc3bce9a6db10", 
@@ -20,13 +28,6 @@
             "fileName": "400b4d20-7a23-49a1-aba1-eeecb35b1b2a.broad-dRanger.20150918.somatic.sv.vcf.gz", 
             "fileSize": 4512, 
             "fileType": "VCF"
-        }, 
-        {
-            "fileAccess": "controlled", 
-            "fileMd5sum": "19b046515030974ec3508797eece2295", 
-            "fileName": "172ea3f7-82be-4449-a3f4-6e06bd2bc4c9.xml", 
-            "fileSize": 41694, 
-            "fileType": "XML"
         }, 
         {
             "fileAccess": "controlled", 
@@ -44,13 +45,6 @@
         }, 
         {
             "fileAccess": "controlled", 
-            "fileMd5sum": "19b046515030974ec3508797eece2295", 
-            "fileName": "172ea3f7-82be-4449-a3f4-6e06bd2bc4c9.xml", 
-            "fileSize": 41694, 
-            "fileType": "XML"
-        }, 
-        {
-            "fileAccess": "controlled", 
             "fileMd5sum": "2855b4eeab2c84683b2391f0111c543f", 
             "fileName": "400b4d20-7a23-49a1-aba1-eeecb35b1b2a.broad-snowman.20150918.germline.sv.vcf.gz.idx", 
             "fileSize": 60331, 
@@ -62,13 +56,6 @@
             "fileName": "400b4d20-7a23-49a1-aba1-eeecb35b1b2a.broad-snowman.20150918.germline.sv.vcf.gz", 
             "fileSize": 2022610, 
             "fileType": "VCF"
-        }, 
-        {
-            "fileAccess": "controlled", 
-            "fileMd5sum": "19b046515030974ec3508797eece2295", 
-            "fileName": "172ea3f7-82be-4449-a3f4-6e06bd2bc4c9.xml", 
-            "fileSize": 41694, 
-            "fileType": "XML"
         }, 
         {
             "fileAccess": "controlled", 
@@ -86,13 +73,6 @@
         }, 
         {
             "fileAccess": "controlled", 
-            "fileMd5sum": "19b046515030974ec3508797eece2295", 
-            "fileName": "172ea3f7-82be-4449-a3f4-6e06bd2bc4c9.xml", 
-            "fileSize": 41694, 
-            "fileType": "XML"
-        }, 
-        {
-            "fileAccess": "controlled", 
             "fileMd5sum": "b79985676d516ff43dfebd7c57af8e17", 
             "fileName": "400b4d20-7a23-49a1-aba1-eeecb35b1b2a.broad-snowman.20150918.germline.indel.vcf.gz.idx", 
             "fileSize": 1044253, 
@@ -104,13 +84,6 @@
             "fileName": "400b4d20-7a23-49a1-aba1-eeecb35b1b2a.broad-snowman.20150918.germline.indel.vcf.gz", 
             "fileSize": 11066922, 
             "fileType": "VCF"
-        }, 
-        {
-            "fileAccess": "controlled", 
-            "fileMd5sum": "19b046515030974ec3508797eece2295", 
-            "fileName": "172ea3f7-82be-4449-a3f4-6e06bd2bc4c9.xml", 
-            "fileSize": 41694, 
-            "fileType": "XML"
         }, 
         {
             "fileAccess": "controlled", 
@@ -128,13 +101,6 @@
         }, 
         {
             "fileAccess": "controlled", 
-            "fileMd5sum": "19b046515030974ec3508797eece2295", 
-            "fileName": "172ea3f7-82be-4449-a3f4-6e06bd2bc4c9.xml", 
-            "fileSize": 41694, 
-            "fileType": "XML"
-        }, 
-        {
-            "fileAccess": "controlled", 
             "fileMd5sum": "3e42cf783a4aba539d36347effeebdbe", 
             "fileName": "400b4d20-7a23-49a1-aba1-eeecb35b1b2a.broad-mutect-v3.20160222.somatic.snv_mnv.vcf.gz.idx", 
             "fileSize": 50892, 
@@ -146,17 +112,11 @@
             "fileName": "400b4d20-7a23-49a1-aba1-eeecb35b1b2a.broad-mutect-v3.20160222.somatic.snv_mnv.vcf.gz", 
             "fileSize": 116084, 
             "fileType": "VCF"
-        }, 
-        {
-            "fileAccess": "controlled", 
-            "fileMd5sum": "19b046515030974ec3508797eece2295", 
-            "fileName": "172ea3f7-82be-4449-a3f4-6e06bd2bc4c9.xml", 
-            "fileSize": 41694, 
-            "fileType": "XML"
         }
     ], 
-    "info": {}, 
-    "matchedNormalSampleSubmitterId": "", 
+    "info": {
+        "isPcawg": true
+    }, 
     "sample": [
         {
             "donor": {

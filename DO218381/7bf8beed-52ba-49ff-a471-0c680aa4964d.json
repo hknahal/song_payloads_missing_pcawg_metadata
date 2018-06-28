@@ -3,10 +3,18 @@
     "analysisType": "variantCall", 
     "experiment": {
         "libraryStrategy": "WGS", 
+        "matchedNormalSampleSubmitterId": "NE10-N", 
         "referenceGenome": "GRCh37", 
         "variantCallingTool": "DKFZ/EMBL variant call pipeline"
     }, 
     "file": [
+        {
+            "fileAccess": "open", 
+            "fileMd5sum": "f8d3d6c4a7351283699da48b2b229470", 
+            "fileName": "7bf8beed-52ba-49ff-a471-0c680aa4964d.xml", 
+            "fileSize": 51897, 
+            "fileType": "XML"
+        }, 
         {
             "fileAccess": "controlled", 
             "fileMd5sum": "e5524996545305be49663c85f9675552", 
@@ -20,13 +28,6 @@
             "fileName": "f02212df-2f5a-4093-bfaf-4a8403d26629.embl-delly_1-0-0-preFilter-hpc.150702.somatic.sv.vcf.gz", 
             "fileSize": 20437, 
             "fileType": "VCF"
-        }, 
-        {
-            "fileAccess": "controlled", 
-            "fileMd5sum": "47fbff40033ce80175c5be4b07c79fab", 
-            "fileName": "7bf8beed-52ba-49ff-a471-0c680aa4964d.xml", 
-            "fileSize": 51897, 
-            "fileType": "XML"
         }, 
         {
             "fileAccess": "controlled", 
@@ -44,13 +45,6 @@
         }, 
         {
             "fileAccess": "controlled", 
-            "fileMd5sum": "47fbff40033ce80175c5be4b07c79fab", 
-            "fileName": "7bf8beed-52ba-49ff-a471-0c680aa4964d.xml", 
-            "fileSize": 51897, 
-            "fileType": "XML"
-        }, 
-        {
-            "fileAccess": "controlled", 
             "fileMd5sum": "b14d60c62efc37450004f80b3861f5b2", 
             "fileName": "f02212df-2f5a-4093-bfaf-4a8403d26629.dkfz-snvCalling_1-0-132-1-hpc.1510220945.somatic.snv_mnv.vcf.gz.tbi", 
             "fileSize": 338992, 
@@ -62,13 +56,6 @@
             "fileName": "f02212df-2f5a-4093-bfaf-4a8403d26629.dkfz-snvCalling_1-0-132-1-hpc.1510220945.somatic.snv_mnv.vcf.gz", 
             "fileSize": 919837, 
             "fileType": "VCF"
-        }, 
-        {
-            "fileAccess": "controlled", 
-            "fileMd5sum": "47fbff40033ce80175c5be4b07c79fab", 
-            "fileName": "7bf8beed-52ba-49ff-a471-0c680aa4964d.xml", 
-            "fileSize": 51897, 
-            "fileType": "XML"
         }, 
         {
             "fileAccess": "controlled", 
@@ -86,13 +73,6 @@
         }, 
         {
             "fileAccess": "controlled", 
-            "fileMd5sum": "47fbff40033ce80175c5be4b07c79fab", 
-            "fileName": "7bf8beed-52ba-49ff-a471-0c680aa4964d.xml", 
-            "fileSize": 51897, 
-            "fileType": "XML"
-        }, 
-        {
-            "fileAccess": "controlled", 
             "fileMd5sum": "482cee995afd993f3667bf58b70a0d45", 
             "fileName": "f02212df-2f5a-4093-bfaf-4a8403d26629.dkfz-indelCalling_1-0-132-1-hpc.1510220945.somatic.indel.vcf.gz.tbi", 
             "fileSize": 166603, 
@@ -104,13 +84,6 @@
             "fileName": "f02212df-2f5a-4093-bfaf-4a8403d26629.dkfz-indelCalling_1-0-132-1-hpc.1510220945.somatic.indel.vcf.gz", 
             "fileSize": 1468356, 
             "fileType": "VCF"
-        }, 
-        {
-            "fileAccess": "controlled", 
-            "fileMd5sum": "47fbff40033ce80175c5be4b07c79fab", 
-            "fileName": "7bf8beed-52ba-49ff-a471-0c680aa4964d.xml", 
-            "fileSize": 51897, 
-            "fileType": "XML"
         }, 
         {
             "fileAccess": "controlled", 
@@ -128,13 +101,6 @@
         }, 
         {
             "fileAccess": "controlled", 
-            "fileMd5sum": "47fbff40033ce80175c5be4b07c79fab", 
-            "fileName": "7bf8beed-52ba-49ff-a471-0c680aa4964d.xml", 
-            "fileSize": 51897, 
-            "fileType": "XML"
-        }, 
-        {
-            "fileAccess": "controlled", 
             "fileMd5sum": "c5a52621eaeea296761007164960493f", 
             "fileName": "f02212df-2f5a-4093-bfaf-4a8403d26629.dkfz-copyNumberEstimation_1-0-189-hpc.1510220945.somatic.cnv.vcf.gz.tbi", 
             "fileSize": 34990, 
@@ -146,17 +112,11 @@
             "fileName": "f02212df-2f5a-4093-bfaf-4a8403d26629.dkfz-copyNumberEstimation_1-0-189-hpc.1510220945.somatic.cnv.vcf.gz", 
             "fileSize": 124234, 
             "fileType": "VCF"
-        }, 
-        {
-            "fileAccess": "controlled", 
-            "fileMd5sum": "47fbff40033ce80175c5be4b07c79fab", 
-            "fileName": "7bf8beed-52ba-49ff-a471-0c680aa4964d.xml", 
-            "fileSize": 51897, 
-            "fileType": "XML"
         }
     ], 
-    "info": {}, 
-    "matchedNormalSampleSubmitterId": "", 
+    "info": {
+        "isPcawg": true
+    }, 
     "sample": [
         {
             "donor": {

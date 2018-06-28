@@ -29,7 +29,9 @@
             "fileType": "XML"
         }
     ], 
-    "info": {}, 
+    "info": {
+        "isPcawg": true
+    }, 
     "matchedNormalSampleSubmitterId": "", 
     "sample": [
         {

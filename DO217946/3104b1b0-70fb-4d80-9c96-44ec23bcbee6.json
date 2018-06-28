@@ -7,6 +7,13 @@
     }, 
     "file": [
         {
+            "fileAccess": "open", 
+            "fileMd5sum": "359e6c8a726703437f5aad3b68bfff97", 
+            "fileName": "3104b1b0-70fb-4d80-9c96-44ec23bcbee6.xml", 
+            "fileSize": 31987, 
+            "fileType": "XML"
+        }, 
+        {
             "fileAccess": "controlled", 
             "fileMd5sum": "6d2eede9a5410c8e940b7d877eba93d0", 
             "fileName": "e8f53c8108303b37d88c4cb7cc4d2ca2.bam.bai", 
@@ -19,16 +26,11 @@
             "fileName": "e8f53c8108303b37d88c4cb7cc4d2ca2.bam", 
             "fileSize": 147125699427, 
             "fileType": "BAM"
-        }, 
-        {
-            "fileAccess": "controlled", 
-            "fileMd5sum": "94472e8ab65f9c9e1f085b429678c176", 
-            "fileName": "3104b1b0-70fb-4d80-9c96-44ec23bcbee6.xml", 
-            "fileSize": 31946, 
-            "fileType": "XML"
         }
     ], 
-    "info": {}, 
+    "info": {
+        "isPcawg": true
+    }, 
     "sample": [
         {
             "donor": {

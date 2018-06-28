@@ -3,11 +3,18 @@
     "analysisType": "variantCall", 
     "experiment": {
         "libraryStrategy": "WGS", 
+        "matchedNormalSampleSubmitterId": "8036079", 
         "referenceGenome": "GRCh37", 
-        "variantCallingTool": "DKFZ/EMBL variant call pipeline",
-        "matchedNormalSampleSubmitterId": "8036079"
+        "variantCallingTool": "DKFZ/EMBL variant call pipeline"
     }, 
     "file": [
+        {
+            "fileAccess": "open", 
+            "fileMd5sum": "1e0f8abf5622583d0f7f189aad445a29", 
+            "fileName": "2da3e4ea-a5fb-4b2a-9f78-f71635f5cf83.xml", 
+            "fileSize": 58819, 
+            "fileType": "XML"
+        }, 
         {
             "fileAccess": "controlled", 
             "fileMd5sum": "94533bc30250f63c1cce7947551a7b55", 
@@ -105,16 +112,11 @@
             "fileName": "8151834d-1cc1-4c17-b55e-a7c817529ff9.embl-delly_1-0-0-preFilter.20150705.germline.sv.vcf.gz", 
             "fileSize": 210879, 
             "fileType": "VCF"
-        }, 
-        {
-            "fileAccess": "controlled", 
-            "fileMd5sum": "d7ccdcd63c85cd06879be9ff07d1c1a4", 
-            "fileName": "2da3e4ea-a5fb-4b2a-9f78-f71635f5cf83.xml", 
-            "fileSize": 58819, 
-            "fileType": "XML"
         }
     ], 
-    "info": {}, 
+    "info": {
+        "isPcawg": true
+    }, 
     "sample": [
         {
             "donor": {
