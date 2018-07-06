@@ -1,0 +1,33 @@
+donor_id	analysis_id		
+DO217920	06274f32-c603-40eb-944d-221624ab1156	FI6730	
+DO217920	2b942c8a-75cd-4daf-a5f5-c6df37117b0f	FI6729	
+DO217920	27e16c1e-d311-11e5-94e1-1f3e5c6878de	FI332662-65	
+DO217920	4750bce3-7dcf-40b4-92e5-768d90c30935		
+DO217920	51fd073d-9b77-4032-a1fc-86b10cfe9246		
+DO217920	ea5688f3-7b1f-4ddd-9a0f-0d1d9fb429b8		
+DO217932	0aba2fc4-cdcd-420a-ad84-6aa87a0b323c		
+DO217932	2ea499ac-f648-48d7-b682-3d5e1f47ffdc	FI322062	"Not found in Data Repo File Search box, but found in general search box"
+DO217932	4bc91cde-eac3-4172-8003-1af7f65e5cf5		
+DO217932	677cb334-d02e-4270-96f3-516883239988		
+DO217932	e03ba0e3-6b1d-4336-8622-e9f760597833		
+DO217932	e99a7f5a-d314-11e5-a6f6-1f3e5c6878de		
+DO218091	02437ae6-d281-11e5-b76e-e3105c6878de		
+DO218091	2da3e4ea-a5fb-4b2a-9f78-f71635f5cf83		
+DO218091	36b19354-afa0-43f8-838a-76aa3b34f17d		
+DO218091	54e43390-b38e-498f-a55b-88dc410d65bc		
+DO218091	eb1490d0-6b8f-43a5-9617-b7a6b729bc30		
+DO218091	fe12b237-2fbc-4fe3-8ade-401e91804521	https://dcc.icgc.org/repositories/files/FI321991	Searched using file name 8151834d-1cc1-4c17-b55e-a7c817529ff9.MUSE_1-0rc-b391201-vcf.20151218.somatic.snv_mnv.vcf.gz
+DO217933	43031fc0-d315-11e5-a6f6-1f3e5c6878de	published 	MD5 for /Users/hnahal/missing_pcawg_data/corrected_payloads/metadata_xmls_re-upload/43031fc0-d315-11e5-a6f6-1f3e5c6878de.xml/a1258733-e82c-5c75-aeeb-05bdd0145d91 was 678d1e3c9f951b4096d5d4ba05695d98 but was expecting c541b1e37cb371c16f1e8dbb4df57140
+DO217933	561ab535-aaea-478c-9469-4417172676ad	published 	md5sum mismatch
+DO217933	85532093-e9c7-486e-aa68-2e620c066fcf	published 	md5sum mismatch
+DO217933	aa34f221-2058-4209-aff5-77e69ce97590	"saved incorrect md5sum - need to fix payload. Hasn't been published yet, but saved upload"	
+DO217933	c3055ef5-f8ef-45d9-acbb-545781af1e45	cannot publish due to md5sum mismatch. Closer inspection shows that one object ID is linked to 2 files.	
+DO217933	e9f9f635-29fd-4679-be6f-652182697a07	published 	md5sum mismatch
+DO218522	336ffddc-0d81-44fd-9423-f5548f0880d0	published 	md5sum mismatch
+DO218522	7449d211-3669-4342-8908-b95c9c2d36b2	published 	md5sum mismatch
+DO218522	985e776d-a7f5-4f5b-89df-ed6947f68c4b	published 	md5sum mismatch
+DO218522	ae68d2a4-4052-40f5-8e9e-6df5a8917eff	"corrected md5sum via score upload but need to update payload (sing save -u won't work, says duplicate analysis ID)"	
+DO218522	d173af19-0ecb-4f50-9253-232871cbdfab	published 	md5sum mismatch
+DO218522	f7f2372c-d27a-11e5-b76e-e3105c6878de	published 	md5sum mismatch
+DO218543	072f9ccf-3196-4d83-a21b-ceaea48a849d	"corrected md5sum via score upload but need to update payload (sing save -u won't work, says duplicate analysis ID)"	
+DO218543	0bcd30a0-9203-4c71-9999-2d7a476c7f01.xml	published 	md5sum mismatch
