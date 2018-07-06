@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ResultSet date="2016-03-07 20:42:42" id="38174992">
+	<Query>analysis_id:f7f2372c-d27a-11e5-b76e-e3105c6878de</Query>
+	<Hits>1</Hits>
+	<Result id="1">
+		<analysis_id>f7f2372c-d27a-11e5-b76e-e3105c6878de</analysis_id>
+		<state>live</state>
+		<reason></reason>
+		<last_modified>2016-02-18T19:26:02Z</last_modified>
+		<upload_date>2016-02-13T06:56:38Z</upload_date>
+		<published_date>2016-02-18T19:26:02Z</published_date>
+		<center_name>QCMG</center_name>
+		<study>icgc_pancancer_vcf</study>
+		<aliquot_id>ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1</aliquot_id>
+		<files>
+			<file>
+				<filename>ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.snv_mnv.vcf.gz</filename>
+				<filesize>4083395</filesize>
+				<checksum type="MD5">42f1d2b852a394fedcd2cd2728c9d6e9</checksum>
+			</file>
+			<file>
+				<filename>ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.snv_mnv.vcf.gz.tbi</filename>
+				<filesize>517314</filesize>
+				<checksum type="MD5">a1a9c89f6b016172f0214458bc149d97</checksum>
+			</file>
+			<file>
+				<filename>ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.cnv.vcf.gz</filename>
+				<filesize>1938</filesize>
+				<checksum type="MD5">e1fd069cb78d627ecd304e7977efffcd</checksum>
+			</file>
+			<file>
+				<filename>ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.cnv.vcf.gz.tbi</filename>
+				<filesize>4137</filesize>
+				<checksum type="MD5">7d41c5a5fe7fa5c3279389b7cc71f5a3</checksum>
+			</file>
+			<file>
+				<filename>ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svfix2_4-0-12.20160213.somatic.sv.vcf.gz</filename>
+				<filesize>3716</filesize>
+				<checksum type="MD5">21931fe8f07c12ee9f7a156491f7cabc</checksum>
+			</file>
+			<file>
+				<filename>ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svfix2_4-0-12.20160213.somatic.sv.vcf.gz.tbi</filename>
+				<filesize>553</filesize>
+				<checksum type="MD5">4e8bd76cd291142d91ef78afa59af3b5</checksum>
+			</file>
+			<file>
+				<filename>ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.indel.vcf.gz</filename>
+				<filesize>50344792</filesize>
+				<checksum type="MD5">a83119c5f5fa8fafe60c1fdc31711f28</checksum>
+			</file>
+			<file>
+				<filename>ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.indel.vcf.gz.tbi</filename>
+				<filesize>1465939</filesize>
+				<checksum type="MD5">a50e165cac73aead45e0f37e44d5440a</checksum>
+			</file>
+			<file>
+				<filename>ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.snv_mnv.tar.gz</filename>
+				<filesize>168565868</filesize>
+				<checksum type="MD5">7486d05be146d4dddd8bc8f224deaecf</checksum>
+			</file>
+			<file>
+				<filename>ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.cnv.tar.gz</filename>
+				<filesize>26932096</filesize>
+				<checksum type="MD5">e05a7413e321226c33df4ef1c752767f</checksum>
+			</file>
+			<file>
+				<filename>ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svfix2_4-0-12.20160213.somatic.sv.tar.gz</filename>
+				<filesize>294338601</filesize>
+				<checksum type="MD5">f80e30f1e956b248b6e400f0afcd5f05</checksum>
+			</file>
+			<file>
+				<filename>ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.indel.tar.gz</filename>
+				<filesize>952059767</filesize>
+				<checksum type="MD5">cc1b6d77ac6410abfe74ed8403c59324</checksum>
+			</file>
+			<file>
+				<filename>ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.imputeCounts.tar.gz</filename>
+				<filesize>443489204</filesize>
+				<checksum type="MD5">7a143f7a9f119443e342a524673cc222</checksum>
+			</file>
+			<file>
+				<filename>ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.genotype.tar.gz</filename>
+				<filesize>2441</filesize>
+				<checksum type="MD5">da03521395a6c1940fc873787e235c6d</checksum>
+			</file>
+			<file>
+				<filename>ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.verifyBamId.tar.gz</filename>
+				<filesize>992546</filesize>
+				<checksum type="MD5">7e68f0bbd3b3784ccfd3cfa7582e5a3a</checksum>
+			</file>
+		</files>
+		<sample_accession></sample_accession>
+		<dcc_project_code>PAEN-AU</dcc_project_code>
+		<dcc_specimen_type>Primary tumour - solid tissue</dcc_specimen_type>
+		<participant_id>ITNET-0911</participant_id>
+		<specimen_id>911T</specimen_id>
+		<sample_id>911T</sample_id>
+		<use_cntl>321663a8-0e6d-4c7e-aa74-77e9e393720b</use_cntl>
+		<analyte_code>D</analyte_code>
+		<library_strategy></library_strategy>
+		<platform></platform>
+		<refassem_short_name>GRCh37</refassem_short_name>
+		<analysis_xml>
+<ANALYSIS_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.ncbi.nlm.nih.gov/viewvc/v1/trunk/sra/doc/SRA_1-5/SRA.analysis.xsd?view=co">
+    <ANALYSIS center_name="QCMG" analysis_center="pdc" analysis_date="2015-05-16T23:05:37">
+      <TITLE>TCGA/ICGC PanCancer Donor-Level Variant Calling for Participant ITNET-0911</TITLE>
+      <STUDY_REF refcenter="OICR" refname="icgc_pancancer_vcf"/>
+      <DESCRIPTION>This is the variant calling for specimen 911T from donor ITNET-0911. The results consist of one or more VCF files plus optional tar.gz files that contain additional file types. This uses the SangerPancancerCgpCnIndelSnvStr workflow, version 1.0.6 available at https://s3.amazonaws.com/oicr.workflow.bundles/released-bundles/Workflow_Bundle_SangerPancancerCgpCnIndelSnvStr_1.0.6_SeqWare_1.1.0.zip. This workflow can be created from source, see https://github.com/ICGC-TCGA-PanCancer/SeqWare-CGP-SomaticCore. For a complete change log see CHANGELOG.md. Note the 'ANALYSIS_TYPE' is 'REFERENCE_ASSEMBLY' but a better term to describe this analysis is 'SEQUENCE_VARIATION' as defined by the EGA's SRA 1.5 schema. Please note the reference used for alignment was hs37d, see ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/technical/reference/phase2_reference_assembly_sequence/README_human_reference_20110707 for more information. Briefly this is the integrated reference sequence from the GRCh37 primary assembly (chromosomal plus unlocalized and unplaced contigs), the rCRS mitochondrial sequence (AC:NC_012920), Human herpesvirus 4 type 1 (AC:NC_007605) and the concatenated decoy sequences (hs37d5cs.fa.gz). Variant calls may not be present for all contigs in this reference.</DESCRIPTION>
+      <ANALYSIS_TYPE>
+        <REFERENCE_ALIGNMENT>
+          <ASSEMBLY>
+  	  <STANDARD short_name="GRCh37"/>
+          </ASSEMBLY>
+          <RUN_LABELS>
+              <RUN data_block_name="WGS:QCMG:Library_EXT20140320_AQ" read_group_label="QCMG:20140321165304100" refname="QCMG:BC1J6TACXX" refcenter="QCMG"/>
+              <RUN data_block_name="WGS:QCMG:Library_EXT20140320_AQ" read_group_label="QCMG:20140321165305245" refname="QCMG:BC1J6TACXX" refcenter="QCMG"/>
+              <RUN data_block_name="WGS:QCMG:Library_EXT20140320_AO" read_group_label="QCMG:20140321165130373" refname="QCMG:AC1BW8ACXX" refcenter="QCMG"/>
+              <RUN data_block_name="WGS:QCMG:Library_EXT20140320_AP" read_group_label="QCMG:20140321165259234" refname="QCMG:AD1GUMACXX" refcenter="QCMG"/>
+              <RUN data_block_name="WGS:QCMG:Library_EXT20140320_AP" read_group_label="QCMG:20140321165131505" refname="QCMG:BC1BY9ACXX" refcenter="QCMG"/>
+              <RUN data_block_name="WGS:QCMG:Library_EXT20140320_AP" read_group_label="QCMG:20140321165300847" refname="QCMG:AD1GUMACXX" refcenter="QCMG"/>
+              <RUN data_block_name="WGS:QCMG:Library_EXT20140320_AP" read_group_label="QCMG:20140321165301015" refname="QCMG:AD1GUMACXX" refcenter="QCMG"/>
+              <RUN data_block_name="WGS:QCMG:Library_EXT20140320_AP" read_group_label="QCMG:20140321165258464" refname="QCMG:AD1GUMACXX" refcenter="QCMG"/>
+          </RUN_LABELS>
+          <SEQ_LABELS>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_000001.10" seq_label="1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_000002.11" seq_label="2"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_000003.11" seq_label="3"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_000004.11" seq_label="4"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_000005.9" seq_label="5"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_000006.11" seq_label="6"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_000007.13" seq_label="7"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_000008.10" seq_label="8"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_000009.11" seq_label="9"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_000010.10" seq_label="10"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_000011.9" seq_label="11"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_000012.11" seq_label="12"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_000013.10" seq_label="13"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_000014.8" seq_label="14"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_000015.9" seq_label="15"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_000016.9" seq_label="16"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_000017.10" seq_label="17"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_000018.9" seq_label="18"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_000019.9" seq_label="19"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_000020.10" seq_label="20"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_000021.8" seq_label="21"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_000022.10" seq_label="22"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_000023.10" seq_label="X"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_000024.9" seq_label="Y"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_012920" seq_label="MT"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000207.1" seq_label="GL000207.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000226.1" seq_label="GL000226.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000229.1" seq_label="GL000229.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000231.1" seq_label="GL000231.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000210.1" seq_label="GL000210.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000239.1" seq_label="GL000239.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000235.1" seq_label="GL000235.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000201.1" seq_label="GL000201.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000247.1" seq_label="GL000247.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000245.1" seq_label="GL000245.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000197.1" seq_label="GL000197.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000203.1" seq_label="GL000203.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000246.1" seq_label="GL000246.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000249.1" seq_label="GL000249.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000196.1" seq_label="GL000196.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000248.1" seq_label="GL000248.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000244.1" seq_label="GL000244.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000238.1" seq_label="GL000238.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000202.1" seq_label="GL000202.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000234.1" seq_label="GL000234.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000232.1" seq_label="GL000232.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000206.1" seq_label="GL000206.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000240.1" seq_label="GL000240.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000236.1" seq_label="GL000236.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000241.1" seq_label="GL000241.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000243.1" seq_label="GL000243.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000242.1" seq_label="GL000242.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000230.1" seq_label="GL000230.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000237.1" seq_label="GL000237.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000233.1" seq_label="GL000233.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000204.1" seq_label="GL000204.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000198.1" seq_label="GL000198.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000208.1" seq_label="GL000208.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000191.1" seq_label="GL000191.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000227.1" seq_label="GL000227.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000228.1" seq_label="GL000228.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000214.1" seq_label="GL000214.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000221.1" seq_label="GL000221.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000209.1" seq_label="GL000209.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000218.1" seq_label="GL000218.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000220.1" seq_label="GL000220.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000213.1" seq_label="GL000213.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000211.1" seq_label="GL000211.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000199.1" seq_label="GL000199.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000217.1" seq_label="GL000217.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000216.1" seq_label="GL000216.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000215.1" seq_label="GL000215.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000205.1" seq_label="GL000205.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000219.1" seq_label="GL000219.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000224.1" seq_label="GL000224.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000223.1" seq_label="GL000223.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000195.1" seq_label="GL000195.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000212.1" seq_label="GL000212.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000222.1" seq_label="GL000222.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000200.1" seq_label="GL000200.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000193.1" seq_label="GL000193.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000194.1" seq_label="GL000194.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000225.1" seq_label="GL000225.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="GL000192.1" seq_label="GL000192.1"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="NC_007605" seq_label="NC_007605"/>
+            <SEQUENCE data_block_name="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1" accession="hs37d5" seq_label="hs37d5"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_000001.10" seq_label="1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_000002.11" seq_label="2"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_000003.11" seq_label="3"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_000004.11" seq_label="4"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_000005.9" seq_label="5"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_000006.11" seq_label="6"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_000007.13" seq_label="7"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_000008.10" seq_label="8"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_000009.11" seq_label="9"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_000010.10" seq_label="10"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_000011.9" seq_label="11"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_000012.11" seq_label="12"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_000013.10" seq_label="13"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_000014.8" seq_label="14"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_000015.9" seq_label="15"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_000016.9" seq_label="16"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_000017.10" seq_label="17"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_000018.9" seq_label="18"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_000019.9" seq_label="19"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_000020.10" seq_label="20"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_000021.8" seq_label="21"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_000022.10" seq_label="22"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_000023.10" seq_label="X"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_000024.9" seq_label="Y"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_012920" seq_label="MT"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000207.1" seq_label="GL000207.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000226.1" seq_label="GL000226.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000229.1" seq_label="GL000229.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000231.1" seq_label="GL000231.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000210.1" seq_label="GL000210.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000239.1" seq_label="GL000239.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000235.1" seq_label="GL000235.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000201.1" seq_label="GL000201.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000247.1" seq_label="GL000247.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000245.1" seq_label="GL000245.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000197.1" seq_label="GL000197.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000203.1" seq_label="GL000203.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000246.1" seq_label="GL000246.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000249.1" seq_label="GL000249.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000196.1" seq_label="GL000196.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000248.1" seq_label="GL000248.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000244.1" seq_label="GL000244.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000238.1" seq_label="GL000238.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000202.1" seq_label="GL000202.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000234.1" seq_label="GL000234.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000232.1" seq_label="GL000232.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000206.1" seq_label="GL000206.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000240.1" seq_label="GL000240.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000236.1" seq_label="GL000236.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000241.1" seq_label="GL000241.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000243.1" seq_label="GL000243.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000242.1" seq_label="GL000242.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000230.1" seq_label="GL000230.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000237.1" seq_label="GL000237.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000233.1" seq_label="GL000233.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000204.1" seq_label="GL000204.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000198.1" seq_label="GL000198.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000208.1" seq_label="GL000208.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000191.1" seq_label="GL000191.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000227.1" seq_label="GL000227.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000228.1" seq_label="GL000228.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000214.1" seq_label="GL000214.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000221.1" seq_label="GL000221.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000209.1" seq_label="GL000209.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000218.1" seq_label="GL000218.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000220.1" seq_label="GL000220.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000213.1" seq_label="GL000213.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000211.1" seq_label="GL000211.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000199.1" seq_label="GL000199.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000217.1" seq_label="GL000217.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000216.1" seq_label="GL000216.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000215.1" seq_label="GL000215.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000205.1" seq_label="GL000205.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000219.1" seq_label="GL000219.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000224.1" seq_label="GL000224.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000223.1" seq_label="GL000223.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000195.1" seq_label="GL000195.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000212.1" seq_label="GL000212.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000222.1" seq_label="GL000222.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000200.1" seq_label="GL000200.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000193.1" seq_label="GL000193.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000194.1" seq_label="GL000194.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000225.1" seq_label="GL000225.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="GL000192.1" seq_label="GL000192.1"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="NC_007605" seq_label="NC_007605"/>
+            <SEQUENCE data_block_name="321663a8-0e6d-4c7e-aa74-77e9e393720b" accession="hs37d5" seq_label="hs37d5"/>
+          </SEQ_LABELS>
+          <PROCESSING>
+            <PIPELINE>
+                  <PIPE_SECTION section_name="SeqWare_1.1.0">
+                    <STEP_INDEX>1</STEP_INDEX>
+                    <PREV_STEP_INDEX>NIL</PREV_STEP_INDEX>
+                    <PROGRAM>SangerPancancerCgpCnIndelSnvStr</PROGRAM>
+                    <VERSION>1.0.6</VERSION>
+                    <NOTES/>
+                  </PIPE_SECTION>
+            </PIPELINE>
+            <DIRECTIVES>
+              <alignment_includes_unaligned_reads>true</alignment_includes_unaligned_reads>
+              <alignment_marks_duplicate_reads>true</alignment_marks_duplicate_reads>
+              <alignment_includes_failed_reads>false</alignment_includes_failed_reads>
+            </DIRECTIVES>
+          </PROCESSING>
+        </REFERENCE_ALIGNMENT>
+      </ANALYSIS_TYPE>
+      <TARGETS>
+        <TARGET sra_object_type="SAMPLE" refcenter="OICR" refname="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1"/>
+        <TARGET sra_object_type="SAMPLE" refcenter="OICR" refname="321663a8-0e6d-4c7e-aa74-77e9e393720b"/>
+      </TARGETS>
+      <DATA_BLOCK name="321663a8-0e6d-4c7e-aa74-77e9e393720b">
+        <FILES>
+          <FILE filename="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.snv_mnv.vcf.gz" filetype="vcf" checksum_method="MD5" checksum="42f1d2b852a394fedcd2cd2728c9d6e9"/>
+          <FILE filename="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.snv_mnv.vcf.gz.tbi" filetype="idx" checksum_method="MD5" checksum="a1a9c89f6b016172f0214458bc149d97"/>
+          <FILE filename="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.cnv.vcf.gz" filetype="vcf" checksum_method="MD5" checksum="e1fd069cb78d627ecd304e7977efffcd"/>
+          <FILE filename="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.cnv.vcf.gz.tbi" filetype="idx" checksum_method="MD5" checksum="7d41c5a5fe7fa5c3279389b7cc71f5a3"/>
+          <FILE filename="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svfix2_4-0-12.20160213.somatic.sv.vcf.gz" filetype="vcf" checksum_method="MD5" checksum="21931fe8f07c12ee9f7a156491f7cabc"/>
+          <FILE filename="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svfix2_4-0-12.20160213.somatic.sv.vcf.gz.tbi" filetype="idx" checksum_method="MD5" checksum="4e8bd76cd291142d91ef78afa59af3b5"/>
+          <FILE filename="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.indel.vcf.gz" filetype="vcf" checksum_method="MD5" checksum="a83119c5f5fa8fafe60c1fdc31711f28"/>
+          <FILE filename="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.indel.vcf.gz.tbi" filetype="idx" checksum_method="MD5" checksum="a50e165cac73aead45e0f37e44d5440a"/>
+          <FILE filename="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.snv_mnv.tar.gz" filetype="tar" checksum_method="MD5" checksum="7486d05be146d4dddd8bc8f224deaecf"/>
+          <FILE filename="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.cnv.tar.gz" filetype="tar" checksum_method="MD5" checksum="e05a7413e321226c33df4ef1c752767f"/>
+          <FILE filename="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svfix2_4-0-12.20160213.somatic.sv.tar.gz" filetype="tar" checksum_method="MD5" checksum="f80e30f1e956b248b6e400f0afcd5f05"/>
+          <FILE filename="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.indel.tar.gz" filetype="tar" checksum_method="MD5" checksum="cc1b6d77ac6410abfe74ed8403c59324"/>
+          <FILE filename="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.imputeCounts.tar.gz" filetype="tar" checksum_method="MD5" checksum="7a143f7a9f119443e342a524673cc222"/>
+          <FILE filename="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.genotype.tar.gz" filetype="tar" checksum_method="MD5" checksum="da03521395a6c1940fc873787e235c6d"/>
+          <FILE filename="ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.verifyBamId.tar.gz" filetype="tar" checksum_method="MD5" checksum="7e68f0bbd3b3784ccfd3cfa7582e5a3a"/>
+        </FILES>
+      </DATA_BLOCK>
+      <ANALYSIS_ATTRIBUTES>
+        <ANALYSIS_ATTRIBUTE>
+          <TAG>dcc_project_code</TAG>
+          <VALUE>PAEN-AU</VALUE>
+        </ANALYSIS_ATTRIBUTE>
+        <ANALYSIS_ATTRIBUTE>
+          <TAG>submitter_donor_id</TAG>
+          <VALUE>ITNET-0911</VALUE>
+        </ANALYSIS_ATTRIBUTE>
+        <ANALYSIS_ATTRIBUTE>
+          <TAG>alignment_workflow_name</TAG>
+          <VALUE>Workflow_Bundle_BWA</VALUE>
+        </ANALYSIS_ATTRIBUTE>
+        <ANALYSIS_ATTRIBUTE>
+          <TAG>alignment_workflow_source_url</TAG>
+          <VALUE>https://github.com/SeqWare/public-workflows/tree/2.6.0/workflow-bwa-pancancer</VALUE>
+        </ANALYSIS_ATTRIBUTE>
+        <ANALYSIS_ATTRIBUTE>
+          <TAG>alignment_workflow_version</TAG>
+          <VALUE>2.6.0</VALUE>
+        </ANALYSIS_ATTRIBUTE>
+        <ANALYSIS_ATTRIBUTE>
+          <TAG>alignment_workflow_bundle_url</TAG>
+          <VALUE>https://s3.amazonaws.com/oicr.workflow.bundles/released-bundles/Workflow_Bundle_BWA_2.6.0_SeqWare_1.0.15.zip</VALUE>
+        </ANALYSIS_ATTRIBUTE>
+        <ANALYSIS_ATTRIBUTE>
+          <TAG>variant_pipeline_input_info</TAG>
+          <VALUE>{"workflow_inputs":[{"specimen":"321663a8-0e6d-4c7e-aa74-77e9e393720b","attributes":{"dcc_project_code":"PAEN-AU","submitter_donor_id":"ITNET-0911","submitter_sample_id":"911N","use_cntl":"N/A","dcc_specimen_type":"Normal - solid tissue","submitter_specimen_id":"911N","analysis_url":"https://gtrepo-osdc-icgc.annailabs.com/cghub/metadata/analysisFull/336ffddc-0d81-44fd-9423-f5548f0880d0","center_name":"QCMG","analysis_id":"336ffddc-0d81-44fd-9423-f5548f0880d0","study_ref":"icgc_pancancer"}},{"specimen":"ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1","attributes":{"dcc_project_code":"PAEN-AU","submitter_donor_id":"ITNET-0911","submitter_sample_id":"911T","use_cntl":"321663a8-0e6d-4c7e-aa74-77e9e393720b","dcc_specimen_type":"Primary tumour - solid tissue","submitter_specimen_id":"911T","analysis_url":"https://gtrepo-osdc-icgc.annailabs.com/cghub/metadata/analysisFull/d173af19-0ecb-4f50-9253-232871cbdfab","center_name":"QCMG","analysis_id":"d173af19-0ecb-4f50-9253-232871cbdfab","study_ref":"icgc_pancancer"}}]}</VALUE>
+        </ANALYSIS_ATTRIBUTE>
+        <ANALYSIS_ATTRIBUTE>
+          <TAG>variant_pipeline_output_info</TAG>
+          <VALUE>{"workflow_outputs":[{"specimen":"321663a8-0e6d-4c7e-aa74-77e9e393720b","attributes":{"dcc_project_code":"PAEN-AU","submitter_donor_id":"ITNET-0911","submitter_sample_id":"911N","dcc_specimen_type":"Normal - solid tissue","use_cntl":"N/A","submitter_specimen_id":"911N","analysis_url":"https://gtrepo-osdc-icgc.annailabs.com/cghub/metadata/analysisFull/336ffddc-0d81-44fd-9423-f5548f0880d0","center_name":"QCMG","analysis_id":"336ffddc-0d81-44fd-9423-f5548f0880d0","study_ref":"icgc_pancancer"}},{"files":{"./seqware-results/ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.indel.vcf.gz.tbi":{"file_type":"somatic","workflow_version":"1.0.6","date":"20150511","specimen":"ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1","workflow_name":"svcp"},"./seqware-results/ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.snv_mnv.vcf.gz.tbi":{"file_type":"somatic","workflow_version":"1.0.6","date":"20150511","specimen":"ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1","workflow_name":"svcp"},"./seqware-results/ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.indel.tar.gz":{"file_type":"somatic","workflow_version":"1.0.6","date":"20150511","specimen":"ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1","workflow_name":"svcp"},"./seqware-results/ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.genotype.tar.gz":{"file_type":"somatic","workflow_version":"1.0.6","date":"20150511","specimen":"ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1","workflow_name":"svcp"},"./seqware-results/ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.snv_mnv.tar.gz":{"file_type":"somatic","workflow_version":"1.0.6","date":"20150511","specimen":"ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1","workflow_name":"svcp"},"./seqware-results/ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.indel.vcf.gz":{"file_type":"somatic","workflow_version":"1.0.6","date":"20150511","specimen":"ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1","workflow_name":"svcp"},"./seqware-results/ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svfix2_4-0-12.20160213.somatic.sv.tar.gz":{"file_type":"somatic","workflow_version":"4-0-12","date":"20160213","specimen":"ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1","workflow_name":"svfix2"},"./seqware-results/ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.snv_mnv.vcf.gz":{"file_type":"somatic","workflow_version":"1.0.6","date":"20150511","specimen":"ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1","workflow_name":"svcp"},"./seqware-results/ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.verifyBamId.tar.gz":{"file_type":"somatic","workflow_version":"1.0.6","date":"20150511","specimen":"ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1","workflow_name":"svcp"},"./seqware-results/ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.imputeCounts.tar.gz":{"file_type":"somatic","workflow_version":"1.0.6","date":"20150511","specimen":"ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1","workflow_name":"svcp"},"./seqware-results/ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svfix2_4-0-12.20160213.somatic.sv.vcf.gz":{"file_type":"somatic","workflow_version":"4-0-12","date":"20160213","specimen":"ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1","workflow_name":"svfix2"},"./seqware-results/ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svfix2_4-0-12.20160213.somatic.sv.vcf.gz.tbi":{"file_type":"somatic","workflow_version":"4-0-12","date":"20160213","specimen":"ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1","workflow_name":"svfix2"},"./seqware-results/ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.cnv.tar.gz":{"file_type":"somatic","workflow_version":"1.0.6","date":"20150511","specimen":"ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1","workflow_name":"svcp"},"./seqware-results/ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.cnv.vcf.gz.tbi":{"file_type":"somatic","workflow_version":"1.0.6","date":"20150511","specimen":"ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1","workflow_name":"svcp"},"./seqware-results/ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1.svcp_1-0-6.20150511.somatic.cnv.vcf.gz":{"file_type":"somatic","workflow_version":"1.0.6","date":"20150511","specimen":"ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1","workflow_name":"svcp"}},"specimen":"ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1","attributes":{"dcc_project_code":"PAEN-AU","submitter_donor_id":"ITNET-0911","submitter_sample_id":"911T","dcc_specimen_type":"Primary tumour - solid tissue","use_cntl":"321663a8-0e6d-4c7e-aa74-77e9e393720b","submitter_specimen_id":"911T","analysis_url":"https://gtrepo-osdc-icgc.annailabs.com/cghub/metadata/analysisFull/d173af19-0ecb-4f50-9253-232871cbdfab","center_name":"QCMG","analysis_id":"d173af19-0ecb-4f50-9253-232871cbdfab","study_ref":"icgc_pancancer"}}]}</VALUE>
+        </ANALYSIS_ATTRIBUTE>
+        <ANALYSIS_ATTRIBUTE>
+          <TAG>variant_workflow_name</TAG>
+          <VALUE>SangerPancancerCgpCnIndelSnvStr+SVFIX2</VALUE>
+        </ANALYSIS_ATTRIBUTE>
+        <ANALYSIS_ATTRIBUTE>
+          <TAG>variant_workflow_version</TAG>
+          <VALUE>1.0.6</VALUE>
+        </ANALYSIS_ATTRIBUTE>
+        <ANALYSIS_ATTRIBUTE>
+          <TAG>variant_workflow_source_url</TAG>
+          <VALUE>https://github.com/ICGC-TCGA-PanCancer/SeqWare-CGP-SomaticCore</VALUE>
+        </ANALYSIS_ATTRIBUTE>
+        <ANALYSIS_ATTRIBUTE>
+          <TAG>variant_workflow_bundle_url</TAG>
+          <VALUE>https://s3.amazonaws.com/oicr.workflow.bundles/released-bundles/Workflow_Bundle_SangerPancancerCgpCnIndelSnvStr_1.0.6_SeqWare_1.1.0.zip</VALUE>
+        </ANALYSIS_ATTRIBUTE>
+        <ANALYSIS_ATTRIBUTE>
+          <TAG>vm_instance_type</TAG>
+          <VALUE>unknown</VALUE>
+        </ANALYSIS_ATTRIBUTE>
+        <ANALYSIS_ATTRIBUTE>
+          <TAG>vm_instance_cores</TAG>
+          <VALUE>unknown</VALUE>
+        </ANALYSIS_ATTRIBUTE>
+        <ANALYSIS_ATTRIBUTE>
+          <TAG>vm_instance_mem_gb</TAG>
+          <VALUE>unknown</VALUE>
+        </ANALYSIS_ATTRIBUTE>
+        <ANALYSIS_ATTRIBUTE>
+          <TAG>vm_location_code</TAG>
+          <VALUE>unknown</VALUE>
+        </ANALYSIS_ATTRIBUTE>
+        <ANALYSIS_ATTRIBUTE>
+          <TAG>variant_qc_metrics</TAG>
+          <VALUE>{"qc_metrics":{"ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1":{"sv":{"assembled":"5","groups":"5650","caller":"BRASS"},"indel":{"likely_germline":"509357","all_indel":"796855","caller":"cgpPindel","passed_indel":"41"},"snv_mnv":{"real_copynumber":1,"all_somatic":"93855","caller":"CaVEMan","all_germline":"4152452","passed_somatic":"184"},"cnv":{"NormalContamination":"0.504945696971893","psi":"1.9","solution_possible":1,"goodnessOfFit":"99.7102739024743","rho":"0.5","Ploidy":"1.96082194975379","caller":"ASCAT"},"genotype":{"frac_informative_genotype":"1","total_loci":92,"frac_matched_genotype":"1","compared_against":"321663a8-0e6d-4c7e-aa74-77e9e393720b"},"contamination":{"ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1":{"by_readgroup":{"QCMG:20140321165131505":{"reads_used":"521722","avg_depth":"14.79","contamination":"0.00097"},"QCMG:20140321165301015":{"reads_used":"490027","avg_depth":"13.89","contamination":"0.00072"},"QCMG:20140321165258464":{"reads_used":"492145","avg_depth":"13.95","contamination":"0.00113"},"QCMG:20140321165259234":{"reads_used":"490522","avg_depth":"13.90","contamination":"0.00090"},"QCMG:20140321165300847":{"reads_used":"490428","avg_depth":"13.90","contamination":"0.00081"}},"reads_used":"2484844","snps_used":"35278","avg_depth":"70.44","contamination":"0.00095"},"caller":"varifyBamId"},"gender":{"frac_match_gender":"1","total_loci":4,"gender_result":"XY","compared_against":"321663a8-0e6d-4c7e-aa74-77e9e393720b"}},"321663a8-0e6d-4c7e-aa74-77e9e393720b":{"contamination":{"321663a8-0e6d-4c7e-aa74-77e9e393720b":{"by_readgroup":{"QCMG:20140321165130373":{"reads_used":"529197","avg_depth":"15.00","contamination":"0.00018"},"QCMG:20140321165305245":{"reads_used":"471700","avg_depth":"13.37","contamination":"0.00004"},"QCMG:20140321165304100":{"reads_used":"477264","avg_depth":"13.53","contamination":"0.00012"}},"reads_used":"1478161","snps_used":"35283","avg_depth":"41.89","contamination":"0.00011"},"caller":"varifyBamId"}}}}</VALUE>
+        </ANALYSIS_ATTRIBUTE>
+        <ANALYSIS_ATTRIBUTE>
+          <TAG>variant_timing_metrics</TAG>
+          <VALUE>{"timing_metrics":{"workflow":{"Wall_s":453585},"pairs":{"ab7587eb-1bc2-43f9-b46f-9d0fa70bfbc1":{"sv":{"detailed":{"group":[{"Wall_s":"961.00","System_s":"13.49","User_s":"1072.93","Max_kb":"1314000"}],"assemble":[{"Wall_s":"1740.30","System_s":"11466.57","User_s":"8726.11","Max_kb":"1895200"}],"input":[{"Wall_s":"22247.26","System_s":"1372.10","User_s":"20712.56","Max_kb":"4268896"},{"Wall_s":"13329.79","System_s":"797.69","User_s":"12354.80","Max_kb":"4266816"}],"filter":[{"Wall_s":"658.93","System_s":"251.60","User_s":"388.03","Max_kb":"201312"}],"grass":[{"Wall_s":"1.94","System_s":"0.24","User_s":"1.12","Max_kb":"182240"}],"tabix":[{"Wall_s":"47.74","System_s":"20.49","User_s":"0.90","Max_kb":"153008"}],"split":[{"Wall_s":"0.92","System_s":"0.20","User_s":"0.60","Max_kb":"152928"}]},"max_mem_mb":4169,"caller":"BRASS","total_cpu_s":57179.43},"indel":{"detailed":{"pin2vcf":[{"Wall_s":"19269.41","System_s":"146.92","User_s":"4283.57","Max_kb":"383440"},{"Wall_s":"16040.09","System_s":"87.39","User_s":"2580.85","Max_kb":"390736"},{"Wall_s":"16168.51","System_s":"89.23","User_s":"2494.67","Max_kb":"363120"},{"Wall_s":"15947.94","System_s":"87.74","User_s":"2466.49","Max_kb":"357280"},{"Wall_s":"13066.46","System_s":"70.71","User_s":"1990.00","Max_kb":"355760"},{"Wall_s":"11679.10","System_s":"60.31","User_s":"1748.72","Max_kb":"361984"},{"Wall_s":"10930.69","System_s":"56.63","User_s":"1664.39","Max_kb":"379648"},{"Wall_s":"11139.55","System_s":"63.71","User_s":"1765.69","Max_kb":"436544"},{"Wall_s":"10263.89","System_s":"52.84","User_s":"1650.80","Max_kb":"380272"},{"Wall_s":"9808.46","System_s":"52.89","User_s":"1480.81","Max_kb":"369120"},{"Wall_s":"7449.07","System_s":"41.95","User_s":"1394.10","Max_kb":"363056"},{"Wall_s":"19425.54","System_s":"147.38","User_s":"4173.32","Max_kb":"375504"},{"Wall_s":"7258.10","System_s":"40.91","User_s":"1071.01","Max_kb":"373536"},{"Wall_s":"4624.44","System_s":"37.04","User_s":"1177.46","Max_kb":"370752"},{"Wall_s":"3148.24","System_s":"26.78","User_s":"712.44","Max_kb":"354960"},{"Wall_s":"15685.37","System_s":"121.31","User_s":"3344.85","Max_kb":"360784"},{"Wall_s":"14552.58","System_s":"125.90","User_s":"3581.36","Max_kb":"375648"},{"Wall_s":"12005.53","System_s":"112.61","User_s":"3088.62","Max_kb":"364496"},{"Wall_s":"11785.64","System_s":"107.61","User_s":"3116.88","Max_kb":"366656"},{"Wall_s":"9458.47","System_s":"98.93","User_s":"2838.81","Max_kb":"386144"},{"Wall_s":"9113.72","System_s":"103.50","User_s":"3660.39","Max_kb":"422752"},{"Wall_s":"7437.85","System_s":"73.49","User_s":"2024.63","Max_kb":"363408"},{"Wall_s":"5614.78","System_s":"37.77","User_s":"1137.90","Max_kb":"393968"},{"Wall_s":"3779.37","System_s":"48.91","User_s":"2678.81","Max_kb":"512208"}],"input":[{"Wall_s":"40065.62","System_s":"4609.75","User_s":"120379.22","Max_kb":"16974000"},{"Wall_s":"25746.66","System_s":"2842.92","User_s":"77025.72","Max_kb":"16829792"}],"pindel":[{"Wall_s":"59356.04","System_s":"323.47","User_s":"58961.96","Max_kb":"24487728"}],"merge":[{"Wall_s":"450.11","System_s":"29.62","User_s":"330.43","Max_kb":"4331712"}],"flag":[{"Wall_s":"1344.30","System_s":"17.32","User_s":"1176.78","Max_kb":"143696"}]},"max_mem_mb":23914,"caller":"cgpPindel","total_cpu_s":323716.22},"snv_mnv":{"detailed":{"":[{"Wall_s":"114.47","System_s":"6.88","User_s":"107.49","Max_kb":"114496"}],"setup":[{"Wall_s":"59.11","System_s":"9.13","User_s":"42.25","Max_kb":"114512"}],"merge":[{"Wall_s":"19.00","System_s":"2.57","User_s":"5.30","Max_kb":"114496"}],"estep":[{"Wall_s":"122796.79","System_s":"4723.89","User_s":"1883474.35","Max_kb":"10406384"}],"mstep":[{"Wall_s":"49274.37","System_s":"6984.09","User_s":"735353.78","Max_kb":"10400288"}],"flag":[{"Wall_s":"19426.16","System_s":"734.76","User_s":"14509.66","Max_kb":"557104"}],"split":[{"Wall_s":"19732.37","System_s":"90.49","User_s":"672.10","Max_kb":"295024"},{"Wall_s":"19793.58","System_s":"95.53","User_s":"704.40","Max_kb":"277632"},{"Wall_s":"19619.87","System_s":"76.87","User_s":"589.15","Max_kb":"262624"},{"Wall_s":"19611.04","System_s":"78.18","User_s":"576.99","Max_kb":"285472"},{"Wall_s":"19566.88","System_s":"76.38","User_s":"538.97","Max_kb":"264736"},{"Wall_s":"19412.84","System_s":"73.68","User_s":"504.21","Max_kb":"337808"},{"Wall_s":"18339.47","System_s":"66.86","User_s":"479.27","Max_kb":"276752"},{"Wall_s":"17525.52","System_s":"64.81","User_s":"439.11","Max_kb":"306304"},{"Wall_s":"13762.26","System_s":"45.24","User_s":"368.66","Max_kb":"268416"},{"Wall_s":"15104.40","System_s":"50.18","User_s":"415.65","Max_kb":"287728"},{"Wall_s":"15217.99","System_s":"51.84","User_s":"408.04","Max_kb":"262096"},{"Wall_s":"15106.47","System_s":"50.25","User_s":"404.14","Max_kb":"259904"},{"Wall_s":"11167.92","System_s":"37.70","User_s":"290.43","Max_kb":"256912"},{"Wall_s":"10354.16","System_s":"33.69","User_s":"270.17","Max_kb":"256880"},{"Wall_s":"9691.12","System_s":"31.28","User_s":"251.00","Max_kb":"255760"},{"Wall_s":"9172.80","System_s":"37.85","User_s":"283.40","Max_kb":"1139328"},{"Wall_s":"8218.88","System_s":"29.01","User_s":"233.00","Max_kb":"281504"},{"Wall_s":"8057.40","System_s":"28.70","User_s":"224.64","Max_kb":"265712"},{"Wall_s":"5563.84","System_s":"21.08","User_s":"163.87","Max_kb":"257136"},{"Wall_s":"4468.92","System_s":"24.05","User_s":"176.01","Max_kb":"257824"},{"Wall_s":"3948.53","System_s":"14.52","User_s":"116.12","Max_kb":"278784"},{"Wall_s":"3547.70","System_s":"13.23","User_s":"100.96","Max_kb":"253440"},{"Wall_s":"2202.72","System_s":"32.93","User_s":"228.49","Max_kb":"268208"},{"Wall_s":"1202.73","System_s":"10.66","User_s":"65.91","Max_kb":"252464"},{"Wall_s":"0.75","System_s":"0.20","User_s":"0.53","Max_kb":"114576"},{"Wall_s":"0.68","System_s":"0.22","User_s":"0.44","Max_kb":"114576"},{"Wall_s":"0.62","System_s":"0.14","User_s":"0.47","Max_kb":"114576"},{"Wall_s":"0.58","System_s":"0.10","User_s":"0.46","Max_kb":"114576"},{"Wall_s":"0.66","System_s":"0.14","User_s":"0.50","Max_kb":"114576"},{"Wall_s":"0.84","System_s":"0.14","User_s":"0.67","Max_kb":"114576"},{"Wall_s":"0.62","System_s":"0.11","User_s":"0.49","Max_kb":"114576"},{"Wall_s":"0.58","System_s":"0.11","User_s":"0.45","Max_kb":"114576"},{"Wall_s":"0.64","System_s":"0.14","User_s":"0.48","Max_kb":"114576"},{"Wall_s":"0.60","System_s":"0.14","User_s":"0.45","Max_kb":"114576"},{"Wall_s":"0.70","System_s":"0.25","User_s":"0.43","Max_kb":"114576"},{"Wall_s":"0.60","System_s":"0.12","User_s":"0.46","Max_kb":"114576"},{"Wall_s":"0.74","System_s":"0.16","User_s":"0.57","Max_kb":"114576"},{"Wall_s":"0.61","System_s":"0.11","User_s":"0.49","Max_kb":"114576"},{"Wall_s":"0.65","System_s":"0.14","User_s":"0.49","Max_kb":"114576"},{"Wall_s":"0.60","System_s":"0.12","User_s":"0.46","Max_kb":"114592"},{"Wall_s":"0.72","System_s":"0.19","User_s":"0.51","Max_kb":"114576"},{"Wall_s":"0.64","System_s":"0.14","User_s":"0.48","Max_kb":"114576"},{"Wall_s":"0.67","System_s":"0.18","User_s":"0.47","Max_kb":"114576"},{"Wall_s":"0.63","System_s":"0.17","User_s":"0.44","Max_kb":"114576"},{"Wall_s":"0.60","System_s":"0.14","User_s":"0.45","Max_kb":"114576"},{"Wall_s":"0.60","System_s":"0.12","User_s":"0.46","Max_kb":"114576"},{"Wall_s":"0.61","System_s":"0.11","User_s":"0.47","Max_kb":"114576"},{"Wall_s":"0.65","System_s":"0.15","User_s":"0.48","Max_kb":"114592"},{"Wall_s":"0.63","System_s":"0.14","User_s":"0.47","Max_kb":"114576"},{"Wall_s":"0.65","System_s":"0.18","User_s":"0.46","Max_kb":"114576"},{"Wall_s":"0.68","System_s":"0.19","User_s":"0.47","Max_kb":"114576"},{"Wall_s":"0.67","System_s":"0.18","User_s":"0.47","Max_kb":"114576"},{"Wall_s":"0.67","System_s":"0.20","User_s":"0.46","Max_kb":"114576"},{"Wall_s":"0.72","System_s":"0.17","User_s":"0.54","Max_kb":"114576"},{"Wall_s":"0.72","System_s":"0.15","User_s":"0.56","Max_kb":"114576"},{"Wall_s":"0.75","System_s":"0.17","User_s":"0.57","Max_kb":"114576"},{"Wall_s":"0.68","System_s":"0.19","User_s":"0.47","Max_kb":"114592"},{"Wall_s":"0.69","System_s":"0.13","User_s":"0.54","Max_kb":"114576"},{"Wall_s":"0.69","System_s":"0.16","User_s":"0.51","Max_kb":"114576"},{"Wall_s":"0.68","System_s":"0.21","User_s":"0.46","Max_kb":"114576"},{"Wall_s":"0.69","System_s":"0.20","User_s":"0.48","Max_kb":"114576"},{"Wall_s":"0.77","System_s":"0.20","User_s":"0.54","Max_kb":"114576"},{"Wall_s":"0.80","System_s":"0.17","User_s":"0.60","Max_kb":"114576"},{"Wall_s":"0.70","System_s":"0.18","User_s":"0.50","Max_kb":"114592"},{"Wall_s":"0.64","System_s":"0.17","User_s":"0.46","Max_kb":"114576"},{"Wall_s":"0.74","System_s":"0.25","User_s":"0.47","Max_kb":"114576"},{"Wall_s":"0.74","System_s":"0.27","User_s":"0.45","Max_kb":"114576"},{"Wall_s":"0.74","System_s":"0.20","User_s":"0.49","Max_kb":"114576"},{"Wall_s":"0.72","System_s":"0.21","User_s":"0.50","Max_kb":"114576"},{"Wall_s":"0.72","System_s":"0.20","User_s":"0.50","Max_kb":"114576"},{"Wall_s":"0.69","System_s":"0.10","User_s":"0.56","Max_kb":"114592"},{"Wall_s":"0.72","System_s":"0.13","User_s":"0.55","Max_kb":"114576"},{"Wall_s":"0.70","System_s":"0.07","User_s":"0.60","Max_kb":"114576"},{"Wall_s":"0.64","System_s":"0.17","User_s":"0.46","Max_kb":"114576"},{"Wall_s":"0.63","System_s":"0.14","User_s":"0.48","Max_kb":"114576"},{"Wall_s":"0.67","System_s":"0.17","User_s":"0.48","Max_kb":"114576"},{"Wall_s":"0.76","System_s":"0.19","User_s":"0.54","Max_kb":"114576"},{"Wall_s":"0.78","System_s":"0.20","User_s":"0.55","Max_kb":"114576"},{"Wall_s":"0.71","System_s":"0.17","User_s":"0.53","Max_kb":"114576"},{"Wall_s":"0.74","System_s":"0.19","User_s":"0.53","Max_kb":"114576"},{"Wall_s":"0.67","System_s":"0.14","User_s":"0.52","Max_kb":"114576"},{"Wall_s":"0.70","System_s":"0.22","User_s":"0.45","Max_kb":"114576"},{"Wall_s":"0.63","System_s":"0.18","User_s":"0.44","Max_kb":"114576"},{"Wall_s":"0.67","System_s":"0.17","User_s":"0.46","Max_kb":"114576"},{"Wall_s":"2.64","System_s":"0.59","User_s":"0.84","Max_kb":"251040"},{"Wall_s":"0.91","System_s":"0.30","User_s":"0.58","Max_kb":"114576"}]},"max_mem_mb":10163,"caller":"CaVEMan","total_cpu_s":2655635.78000001},"cnv":{"detailed":{"":[{"Wall_s":"6924.49","System_s":"315.51","User_s":"5959.99","Max_kb":"233728"}],"ascat":[{"Wall_s":"1489.51","System_s":"6.20","User_s":"1477.75","Max_kb":"12570528"}],"finalise":[{"Wall_s":"6.20","System_s":"1.22","User_s":"1.24","Max_kb":"123232"}]},"max_mem_mb":12276,"caller":"ASCAT","total_cpu_s":7761.91},"binCounts":{"detailed":{"tumour":[{"Wall_s":"9501.37","System_s":"232.33","User_s":"8795.47","Max_kb":"217696"},{"Wall_s":"10120.08","System_s":"253.77","User_s":"9302.54","Max_kb":"218128"},{"Wall_s":"8274.78","System_s":"206.52","User_s":"7638.89","Max_kb":"215600"},{"Wall_s":"8021.49","System_s":"202.28","User_s":"7385.35","Max_kb":"215872"},{"Wall_s":"7648.95","System_s":"195.78","User_s":"7004.70","Max_kb":"215280"},{"Wall_s":"7307.57","System_s":"189.13","User_s":"6713.52","Max_kb":"225424"},{"Wall_s":"6488.48","System_s":"171.89","User_s":"6021.20","Max_kb":"214752"},{"Wall_s":"6197.76","System_s":"164.97","User_s":"5752.49","Max_kb":"215040"},{"Wall_s":"5040.27","System_s":"133.52","User_s":"4701.41","Max_kb":"215296"},{"Wall_s":"5600.28","System_s":"150.49","User_s":"5208.04","Max_kb":"214912"},{"Wall_s":"5613.47","System_s":"148.83","User_s":"5198.00","Max_kb":"215088"},{"Wall_s":"5467.97","System_s":"148.90","User_s":"5087.06","Max_kb":"215232"},{"Wall_s":"4166.71","System_s":"111.51","User_s":"3880.01","Max_kb":"214912"},{"Wall_s":"3735.83","System_s":"98.72","User_s":"3479.62","Max_kb":"215392"},{"Wall_s":"3443.10","System_s":"92.18","User_s":"3215.40","Max_kb":"215200"},{"Wall_s":"3713.13","System_s":"115.88","User_s":"3491.89","Max_kb":"214896"},{"Wall_s":"3062.99","System_s":"83.33","User_s":"2868.76","Max_kb":"214832"},{"Wall_s":"2983.77","System_s":"78.38","User_s":"2820.70","Max_kb":"214800"},{"Wall_s":"2109.81","System_s":"57.54","User_s":"1979.20","Max_kb":"215056"},{"Wall_s":"2456.96","System_s":"65.30","User_s":"2330.43","Max_kb":"215168"},{"Wall_s":"1529.04","System_s":"41.78","User_s":"1460.71","Max_kb":"215568"},{"Wall_s":"1369.80","System_s":"35.88","User_s":"1311.47","Max_kb":"214896"},{"Wall_s":"2688.95","System_s":"63.71","User_s":"2573.09","Max_kb":"215136"},{"Wall_s":"825.10","System_s":"27.84","User_s":"783.53","Max_kb":"217088"}]},"max_mem_mb":221,"caller":"binCounts","total_cpu_s":112073.94},"bbAllele":{"detailed":{"merge":[{"Wall_s":"228.14","System_s":"11.21","User_s":"108.79","Max_kb":"70608"}],"tumour":[{"Wall_s":"29616.46","System_s":"463.34","User_s":"29119.31","Max_kb":"506432"},{"Wall_s":"32740.51","System_s":"520.23","User_s":"32185.40","Max_kb":"544528"},{"Wall_s":"27595.74","System_s":"461.35","User_s":"27008.18","Max_kb":"472064"},{"Wall_s":"27833.80","System_s":"459.57","User_s":"27295.73","Max_kb":"470656"},{"Wall_s":"31871.69","System_s":"588.45","User_s":"30582.87","Max_kb":"444784"},{"Wall_s":"33627.76","System_s":"649.94","User_s":"32085.78","Max_kb":"432032"},{"Wall_s":"30661.84","System_s":"593.12","User_s":"29176.80","Max_kb":"405600"},{"Wall_s":"30446.14","System_s":"579.29","User_s":"29049.39","Max_kb":"403792"},{"Wall_s":"22822.56","System_s":"447.48","User_s":"21771.92","Max_kb":"336176"},{"Wall_s":"25938.26","System_s":"500.45","User_s":"24722.38","Max_kb":"367728"},{"Wall_s":"26309.13","System_s":"494.72","User_s":"25062.31","Max_kb":"367552"},{"Wall_s":"25114.51","System_s":"484.28","User_s":"23991.66","Max_kb":"357680"},{"Wall_s":"19063.68","System_s":"369.65","User_s":"18199.68","Max_kb":"301616"},{"Wall_s":"17272.19","System_s":"332.39","User_s":"16524.08","Max_kb":"287520"},{"Wall_s":"15574.69","System_s":"300.25","User_s":"14819.57","Max_kb":"272416"},{"Wall_s":"16432.28","System_s":"314.87","User_s":"15688.66","Max_kb":"282832"},{"Wall_s":"13859.81","System_s":"273.94","User_s":"13225.71","Max_kb":"261632"},{"Wall_s":"14709.80","System_s":"298.57","User_s":"14049.58","Max_kb":"266688"},{"Wall_s":"10598.30","System_s":"207.00","User_s":"10120.29","Max_kb":"232992"},{"Wall_s":"11545.30","System_s":"234.68","User_s":"11035.21","Max_kb":"239264"},{"Wall_s":"7166.55","System_s":"142.34","User_s":"6850.07","Max_kb":"196880"},{"Wall_s":"6444.55","System_s":"129.33","User_s":"6143.38","Max_kb":"193952"},{"Wall_s":"10245.26","System_s":"216.13","User_s":"9766.30","Max_kb":"291056"}]},"max_mem_mb":532,"caller":"bbAllele","total_cpu_s":477655.63}}},"download":{"Wall_s":4171}}}</VALUE>
+        </ANALYSIS_ATTRIBUTE>
+      </ANALYSIS_ATTRIBUTES>
+    </ANALYSIS>
+  </ANALYSIS_SET>
+</analysis_xml>
+		<experiment_xml>
+</experiment_xml>
+		<run_xml>
+</run_xml>
+		<analysis_detail_uri>https://gtrepo-osdc-icgc.annailabs.com/cghub/metadata/analysisDetail/f7f2372c-d27a-11e5-b76e-e3105c6878de</analysis_detail_uri>
+		<analysis_submission_uri>https://gtrepo-osdc-icgc.annailabs.com/cghub/metadata/analysisSubmission/f7f2372c-d27a-11e5-b76e-e3105c6878de</analysis_submission_uri>
+		<analysis_data_uri>https://gtrepo-osdc-icgc.annailabs.com/cghub/data/analysis/download/f7f2372c-d27a-11e5-b76e-e3105c6878de</analysis_data_uri>
+	</Result>
+	<ResultSummary>
+		<downloadable_file_count>15</downloadable_file_count>
+		<downloadable_file_size units="GB">1.81</downloadable_file_size>
+		<state_count>
+			<live>1</live>
+		</state_count>
+	</ResultSummary>
+</ResultSet>
