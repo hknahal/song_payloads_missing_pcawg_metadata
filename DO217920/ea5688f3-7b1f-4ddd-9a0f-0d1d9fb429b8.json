@@ -4,7 +4,8 @@
     "experiment": {
         "libraryStrategy": "WGS", 
         "referenceGenome": "GRCh37", 
-        "variantCallingTool": "MUSE variant call pipeline"
+        "variantCallingTool": "MUSE variant call pipeline",
+    	"matchedNormalSampleSubmitterId": "NE29-N"
     }, 
     "file": [
         {
@@ -32,7 +33,6 @@
     "info": {
         "isPcawg": true
     }, 
-    "matchedNormalSampleSubmitterId": "", 
     "sample": [
         {
             "donor": {
