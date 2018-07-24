@@ -1,0 +1,53 @@
+[
+    {
+        "payloads": [
+            {
+                "analysisId": "0aba2fc4-cdcd-420a-ad84-6aa87a0b323c",
+                "analysisType": "sequencingRead",
+                "experiment": {
+                    "libraryStrategy": "WGS",
+                    "referenceGenome": "GRCh37"
+                },
+                "file": [
+                    {
+                        "fileAccess": "open",
+                        "fileMd5sum": "e9df8df6371dead296ef4996ef5ec731",
+                        "fileName": "0aba2fc4-cdcd-420a-ad84-6aa87a0b323c.xml",
+                        "fileSize": 33252,
+                        "fileType": "XML"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "66e81bfdb015a062f143f41cdfe2ce62",
+                        "fileName": "66e81bfdb015a062f143f41cdfe2ce62.bam",
+                        "fileSize": 113687157055,
+                        "fileType": "BAM"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "809c4b10de6fb6d2384606ceb68e1561",
+                        "fileName": "66e81bfdb015a062f143f41cdfe2ce62.bam.bai",
+                        "fileSize": 14072072,
+                        "fileType": "BAI"
+                    }
+                ],
+                "sample": [
+                    {
+                        "donor": {
+                            "donorGender": "unspecified",
+                            "donorSubmitterId": "NE-0012"
+                        },
+                        "sampleSubmitterId": "NE12-T",
+                        "sampleType": "DNA",
+                        "specimen": {
+                            "specimenClass": "Tumour",
+                            "specimenSubmitterId": "NE12-T",
+                            "specimenType": "Primary tumour - solid tissue"
+                        }
+                    }
+                ]
+            }
+        ],
+        "studyId": "PAEN-AU"
+    }
+]

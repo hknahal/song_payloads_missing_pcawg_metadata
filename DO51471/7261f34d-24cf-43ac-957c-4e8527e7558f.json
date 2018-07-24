@@ -1,0 +1,60 @@
+[
+    {
+        "payloads": [
+            {
+                "analysisId": "7261f34d-24cf-43ac-957c-4e8527e7558f",
+                "analysisType": "variantCall",
+                "experiment": {
+                    "info": {
+                        "libraryStrategy": "WGS",
+                        "referenceGenome": "GRCh37"
+                    },
+                    "matchedNormalSampleSubmitterId": "PCSI_0231_Ly_R",
+                    "variantCallingTool": "MUSE variant call pipeline"
+                },
+                "file": [
+                    {
+                        "fileAccess": "open",
+                        "fileMd5sum": "3734f4ebf2d94694b6df1d3d967b2072",
+                        "fileName": "7261f34d-24cf-43ac-957c-4e8527e7558f.xml",
+                        "fileSize": 35144,
+                        "fileType": "XML"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "38a0b7ea57292c50abb1265f518a3642",
+                        "fileName": "92f4a95a-d2af-49f0-9274-0983321ba5b5.MUSE_1-0rc-vcf.20151215.somatic.snv_mnv.vcf.gz",
+                        "fileSize": 3735001,
+                        "fileType": "VCF"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "042c353ffca4d1be4c413a397687fe68",
+                        "fileName": "92f4a95a-d2af-49f0-9274-0983321ba5b5.MUSE_1-0rc-vcf.20151215.somatic.snv_mnv.vcf.gz.idx",
+                        "fileSize": 967364,
+                        "fileType": "IDX"
+                    }
+                ],
+                "info": {
+                    "isPcawg": true
+                },
+                "sample": [
+                    {
+                        "donor": {
+                            "donorGender": "unspecified",
+                            "donorSubmitterId": "PCSI_0231"
+                        },
+                        "sampleSubmitterId": "PCSI_0231_Pa_P_526",
+                        "sampleType": "DNA",
+                        "specimen": {
+                            "specimenClass": "Tumour",
+                            "specimenSubmitterId": "PCSI_0231_Pa_P_526",
+                            "specimenType": "Primary tumour - solid tissue"
+                        }
+                    }
+                ]
+            }
+        ],
+        "studyId": "PACA-CA"
+    }
+]

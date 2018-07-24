@@ -1,0 +1,60 @@
+[
+    {
+        "payloads": [
+            {
+                "analysisId": "48e7522f-ac0b-4bb0-a4ea-4f3cfac95033",
+                "analysisType": "variantCall",
+                "experiment": {
+                    "info": {
+                        "libraryStrategy": "WGS",
+                        "referenceGenome": "GRCh37"
+                    },
+                    "matchedNormalSampleSubmitterId": "8068966",
+                    "variantCallingTool": "MUSE variant call pipeline"
+                },
+                "file": [
+                    {
+                        "fileAccess": "open",
+                        "fileMd5sum": "5d9a8213044efedc6efba9b224fc4db7",
+                        "fileName": "48e7522f-ac0b-4bb0-a4ea-4f3cfac95033.xml",
+                        "fileSize": 36203,
+                        "fileType": "XML"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "7172d1bd06aaee8659aaa8c2b76a8b38",
+                        "fileName": "8c399a6e-05b9-4ca6-a05e-61e9f373add7.MUSE_1-0rc-vcf.20150918.somatic.snv_mnv.vcf.gz",
+                        "fileSize": 126459,
+                        "fileType": "VCF"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "24686e6122ef669aa9f990266199623b",
+                        "fileName": "8c399a6e-05b9-4ca6-a05e-61e9f373add7.MUSE_1-0rc-vcf.20150918.somatic.snv_mnv.vcf.gz.idx",
+                        "fileSize": 66743,
+                        "fileType": "IDX"
+                    }
+                ],
+                "info": {
+                    "isPcawg": true
+                },
+                "sample": [
+                    {
+                        "donor": {
+                            "donorGender": "unspecified",
+                            "donorSubmitterId": "ICGC_0503"
+                        },
+                        "sampleSubmitterId": "8069319",
+                        "sampleType": "DNA",
+                        "specimen": {
+                            "specimenClass": "Tumour",
+                            "specimenSubmitterId": "8069319",
+                            "specimenType": "Primary tumour - solid tissue"
+                        }
+                    }
+                ]
+            }
+        ],
+        "studyId": "PACA-AU"
+    }
+]

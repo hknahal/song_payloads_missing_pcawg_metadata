@@ -1,0 +1,144 @@
+[
+    {
+        "payloads": [
+            {
+                "analysisId": "51fd073d-9b77-4032-a1fc-86b10cfe9246",
+                "analysisType": "variantCall",
+                "experiment": {
+                    "info": {
+                        "libraryStrategy": "WGS",
+                        "referenceGenome": "GRCh37"
+                    },
+                    "matchedNormalSampleSubmitterId": "NE29-N",
+                    "variantCallingTool": "Broad variant call pipeline"
+                },
+                "file": [
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "4f7320482630a0f5ddbafee370a5fa47",
+                        "fileName": "d198e753-28a3-4d1c-b005-64b48306fa60.broad-mutect-v3.20160222.somatic.snv_mnv.vcf.gz",
+                        "fileSize": 82108,
+                        "fileType": "VCF"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "faa47dcf4ad94b8020fefe56df4a9821",
+                        "fileName": "d198e753-28a3-4d1c-b005-64b48306fa60.broad-mutect-v3.20160222.somatic.snv_mnv.vcf.gz.idx",
+                        "fileSize": 37388,
+                        "fileType": "IDX"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "7c5236ee17c87d2cae0bf7414f38a0b6",
+                        "fileName": "d198e753-28a3-4d1c-b005-64b48306fa60.broad-snowman.20151120.germline.indel.vcf.gz",
+                        "fileSize": 15401853,
+                        "fileType": "VCF"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "a2e58870d73a47941d8118f8c17437eb",
+                        "fileName": "d198e753-28a3-4d1c-b005-64b48306fa60.broad-snowman.20151120.germline.indel.vcf.gz.idx",
+                        "fileSize": 1221198,
+                        "fileType": "IDX"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "75e5a21ac7418bb8a0d42c9f50c84ebb",
+                        "fileName": "d198e753-28a3-4d1c-b005-64b48306fa60.broad-snowman.20151120.germline.sv.vcf.gz",
+                        "fileSize": 2468067,
+                        "fileType": "VCF"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "3a41174920872bcbc10b3070f0a505a5",
+                        "fileName": "d198e753-28a3-4d1c-b005-64b48306fa60.broad-snowman.20151120.germline.sv.vcf.gz.idx",
+                        "fileSize": 69119,
+                        "fileType": "IDX"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "4b3848b3ee6b492793f9512fb95ab541",
+                        "fileName": "d198e753-28a3-4d1c-b005-64b48306fa60.broad-snowman.20151120.somatic.indel.vcf.gz",
+                        "fileSize": 25102,
+                        "fileType": "VCF"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "e7357e9ead7d40b0d17a235dda2f02f0",
+                        "fileName": "d198e753-28a3-4d1c-b005-64b48306fa60.broad-snowman.20151120.somatic.indel.vcf.gz.idx",
+                        "fileSize": 11542,
+                        "fileType": "IDX"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "8e3ce8d6c281065b810573de8024a61a",
+                        "fileName": "d198e753-28a3-4d1c-b005-64b48306fa60.broad-dRanger_snowman.20151120.somatic.sv.vcf.gz",
+                        "fileSize": 35030,
+                        "fileType": "VCF"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "c52c70bd2c50b1b96564fe28a3ae0747",
+                        "fileName": "d198e753-28a3-4d1c-b005-64b48306fa60.broad-dRanger_snowman.20151120.somatic.sv.vcf.gz.idx",
+                        "fileSize": 6697,
+                        "fileType": "IDX"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "366abdcee35343c89e8c8c8a406c1a68",
+                        "fileName": "d198e753-28a3-4d1c-b005-64b48306fa60.broad-snowman.20151120.somatic.sv.vcf.gz",
+                        "fileSize": 31878,
+                        "fileType": "VCF"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "f46d6a378d4857f055a54817d4bee5a8",
+                        "fileName": "d198e753-28a3-4d1c-b005-64b48306fa60.broad-snowman.20151120.somatic.sv.vcf.gz.idx",
+                        "fileSize": 6478,
+                        "fileType": "IDX"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "b4724cfefdd38d2ddd35bde2792894c6",
+                        "fileName": "d198e753-28a3-4d1c-b005-64b48306fa60.broad-dRanger.20151120.somatic.sv.vcf.gz",
+                        "fileSize": 3218,
+                        "fileType": "VCF"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "460f266750e30efd6acba2b3e4d3501f",
+                        "fileName": "d198e753-28a3-4d1c-b005-64b48306fa60.broad-dRanger.20151120.somatic.sv.vcf.gz.idx",
+                        "fileSize": 1417,
+                        "fileType": "IDX"
+                    },
+                    {
+                        "fileAccess": "open",
+                        "fileMd5sum": "d105bbb770c96a799fadee32df965b55",
+                        "fileName": "51fd073d-9b77-4032-a1fc-86b10cfe9246.xml",
+                        "fileSize": 41546,
+                        "fileType": "XML"
+                    }
+                ],
+                "info": {
+                    "isPcawg": true
+                },
+                "sample": [
+                    {
+                        "donor": {
+                            "donorGender": "unspecified",
+                            "donorSubmitterId": "NE-0029"
+                        },
+                        "sampleSubmitterId": "NE29-T",
+                        "sampleType": "DNA",
+                        "specimen": {
+                            "specimenClass": "Tumour",
+                            "specimenSubmitterId": "NE29-T",
+                            "specimenType": "Primary tumour - solid tissue"
+                        }
+                    }
+                ]
+            }
+        ],
+        "studyId": "PAEN-AU"
+    }
+]

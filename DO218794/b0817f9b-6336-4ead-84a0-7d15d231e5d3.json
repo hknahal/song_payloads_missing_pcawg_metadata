@@ -1,0 +1,56 @@
+[
+    {
+        "payloads": [
+            {
+                "analysisId": "b0817f9b-6336-4ead-84a0-7d15d231e5d3",
+                "analysisType": "sequencingRead",
+                "experiment": {
+                    "libraryStrategy": "WGS",
+                    "referenceGenome": "GRCh37"
+                },
+                "file": [
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "d9afd7aefcbe6b3ffa109bb00b81a7a2",
+                        "fileName": "d9afd7aefcbe6b3ffa109bb00b81a7a2.bam",
+                        "fileSize": 122816103775,
+                        "fileType": "BAM"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "8a85f8c86fccfcd827ca621288307e91",
+                        "fileName": "d9afd7aefcbe6b3ffa109bb00b81a7a2.bam.bai",
+                        "fileSize": 16139216,
+                        "fileType": "BAI"
+                    },
+                    {
+                        "fileAccess": "open",
+                        "fileMd5sum": "cfbcdb7ddb96b4e256a1ef19b39eb22e",
+                        "fileName": "b0817f9b-6336-4ead-84a0-7d15d231e5d3.xml",
+                        "fileSize": 34291,
+                        "fileType": "XML"
+                    }
+                ],
+                "info": {
+                    "isPcawg": true
+                },
+                "sample": [
+                    {
+                        "donor": {
+                            "donorGender": "unspecified",
+                            "donorSubmitterId": "NE-0018"
+                        },
+                        "sampleSubmitterId": "NE18-T",
+                        "sampleType": "DNA",
+                        "specimen": {
+                            "specimenClass": "Tumour",
+                            "specimenSubmitterId": "NE18-T",
+                            "specimenType": "Primary tumour - solid tissue"
+                        }
+                    }
+                ]
+            }
+        ],
+        "studyId": "PAEN-AU"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "payloads": [
+            {
+                "analysisId": "65a58517-da22-427e-a705-9a040767fc20",
+                "analysisType": "variantCall",
+                "experiment": {
+                    "info": {
+                        "libraryStrategy": "WGS",
+                        "referenceGenome": "GRCh37"
+                    },
+                    "matchedNormalSampleSubmitterId": "NE10-N",
+                    "variantCallingTool": "MUSE variant call pipeline"
+                },
+                "file": [
+                    {
+                        "fileAccess": "open",
+                        "fileMd5sum": "1a95b4cce952d57e379dbbf4cc51e5ae",
+                        "fileName": "65a58517-da22-427e-a705-9a040767fc20.xml",
+                        "fileSize": 34208,
+                        "fileType": "XML"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "77581987c885c611910aadf8a3ba19aa",
+                        "fileName": "f02212df-2f5a-4093-bfaf-4a8403d26629.MUSE_1-0rc-vcf.20151217.somatic.snv_mnv.vcf.gz",
+                        "fileSize": 130260,
+                        "fileType": "VCF"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "56a1189ba0080bc5849f7b9fb299804a",
+                        "fileName": "f02212df-2f5a-4093-bfaf-4a8403d26629.MUSE_1-0rc-vcf.20151217.somatic.snv_mnv.vcf.gz.idx",
+                        "fileSize": 63891,
+                        "fileType": "IDX"
+                    }
+                ],
+                "info": {
+                    "isPcawg": true
+                },
+                "sample": [
+                    {
+                        "donor": {
+                            "donorGender": "unspecified",
+                            "donorSubmitterId": "NE-0010"
+                        },
+                        "sampleSubmitterId": "NE10-T",
+                        "sampleType": "DNA",
+                        "specimen": {
+                            "specimenClass": "Tumour",
+                            "specimenSubmitterId": "NE10-T",
+                            "specimenType": "Primary tumour - solid tissue"
+                        }
+                    }
+                ]
+            }
+        ],
+        "studyId": "PAEN-AU"
+    }
+]

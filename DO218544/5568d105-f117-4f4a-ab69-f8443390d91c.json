@@ -1,0 +1,56 @@
+[
+    {
+        "payloads": [
+            {
+                "analysisId": "5568d105-f117-4f4a-ab69-f8443390d91c",
+                "analysisType": "sequencingRead",
+                "experiment": {
+                    "libraryStrategy": "WGS",
+                    "referenceGenome": "GRCh37"
+                },
+                "file": [
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "7fe1c6f6fd735fa73dc74b6fe35e353f",
+                        "fileName": "7fe1c6f6fd735fa73dc74b6fe35e353f.bam",
+                        "fileSize": 72040996631,
+                        "fileType": "BAM"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "2f63a2c5a01016912a689d689528771e",
+                        "fileName": "7fe1c6f6fd735fa73dc74b6fe35e353f.bam.bai",
+                        "fileSize": 12855888,
+                        "fileType": "BAI"
+                    },
+                    {
+                        "fileAccess": "open",
+                        "fileMd5sum": "bb37f923f550d829a915825435c33e01",
+                        "fileName": "5568d105-f117-4f4a-ab69-f8443390d91c.xml",
+                        "fileSize": 29816,
+                        "fileType": "XML"
+                    }
+                ],
+                "info": {
+                    "isPcawg": true
+                },
+                "sample": [
+                    {
+                        "donor": {
+                            "donorGender": "unspecified",
+                            "donorSubmitterId": "NE-0033"
+                        },
+                        "sampleSubmitterId": "NE33-N",
+                        "sampleType": "DNA",
+                        "specimen": {
+                            "specimenClass": "Normal",
+                            "specimenSubmitterId": "NE33-N",
+                            "specimenType": "Normal - blood derived"
+                        }
+                    }
+                ]
+            }
+        ],
+        "studyId": "PAEN-AU"
+    }
+]

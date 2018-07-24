@@ -1,0 +1,102 @@
+[
+    {
+        "payloads": [
+            {
+                "analysisId": "1c55489c-d349-11e5-b5fc-61145c6878de",
+                "analysisType": "variantCall",
+                "experiment": {
+                    "info": {
+                        "libraryStrategy": "WGS",
+                        "referenceGenome": "GRCh37"
+                    },
+                    "matchedNormalSampleSubmitterId": "NE9-N",
+                    "variantCallingTool": "Sanger variant call pipeline"
+                },
+                "file": [
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "f335873ec02ff07e8d86f7a2d5f96374",
+                        "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.svcp_1-0-4.20150215.somatic.snv_mnv.vcf.gz",
+                        "fileSize": 2230683,
+                        "fileType": "VCF"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "28b93db81797f2d688d0dd1fcd687ce3",
+                        "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.svcp_1-0-4.20150215.somatic.snv_mnv.vcf.gz.tbi",
+                        "fileSize": 362210,
+                        "fileType": "TBI"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "8b8d42e887a34e62a6fe6189a0f4756b",
+                        "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.svcp_1-0-4.20150215.somatic.cnv.vcf.gz",
+                        "fileSize": 2413,
+                        "fileType": "VCF"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "4f20a6e83cc1e6044f8fdd222973af1d",
+                        "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.svcp_1-0-4.20150215.somatic.cnv.vcf.gz.tbi",
+                        "fileSize": 4410,
+                        "fileType": "TBI"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "2d8426f3f70c29c348a1b792de356f78",
+                        "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.svfix2_4-0-12.20160214.somatic.sv.vcf.gz",
+                        "fileSize": 19762,
+                        "fileType": "VCF"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "a9a5bf011e1df20d7a7276f517424366",
+                        "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.svfix2_4-0-12.20160214.somatic.sv.vcf.gz.tbi",
+                        "fileSize": 2116,
+                        "fileType": "TBI"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "e79f92b1cf11a8b14f4c59c1e8b78cfc",
+                        "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.svcp_1-0-4.20150215.somatic.indel.vcf.gz",
+                        "fileSize": 57073699,
+                        "fileType": "VCF"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "8cd5f8313ab0841601c6bcd2879dd0ee",
+                        "fileName": "577f1ca0-ef1e-4976-b067-910bd4e8a761.svcp_1-0-4.20150215.somatic.indel.vcf.gz.tbi",
+                        "fileSize": 1485168,
+                        "fileType": "TBI"
+                    },
+                    {
+                        "fileAccess": "open",
+                        "fileMd5sum": "654df6d6634ccc06e1777065712e35a2",
+                        "fileName": "1c55489c-d349-11e5-b5fc-61145c6878de.xml",
+                        "fileSize": 58692,
+                        "fileType": "XML"
+                    }
+                ],
+                "info": {
+                    "isPcawg": true
+                },
+                "sample": [
+                    {
+                        "donor": {
+                            "donorGender": "unspecified",
+                            "donorSubmitterId": "NE-0009"
+                        },
+                        "sampleSubmitterId": "NE9-T",
+                        "sampleType": "DNA",
+                        "specimen": {
+                            "specimenClass": "Tumour",
+                            "specimenSubmitterId": "NE9-T",
+                            "specimenType": "Primary tumour - solid tissue"
+                        }
+                    }
+                ]
+            }
+        ],
+        "studyId": "PAEN-AU"
+    }
+]

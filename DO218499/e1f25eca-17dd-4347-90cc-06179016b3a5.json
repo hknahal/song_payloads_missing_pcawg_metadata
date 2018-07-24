@@ -1,0 +1,56 @@
+[
+    {
+        "payloads": [
+            {
+                "analysisId": "e1f25eca-17dd-4347-90cc-06179016b3a5",
+                "analysisType": "sequencingRead",
+                "experiment": {
+                    "libraryStrategy": "WGS",
+                    "referenceGenome": "GRCh37"
+                },
+                "file": [
+                    {
+                        "fileAccess": "open",
+                        "fileMd5sum": "5ad785c17381b5d44226d2570eb4e080",
+                        "fileName": "e1f25eca-17dd-4347-90cc-06179016b3a5.xml",
+                        "fileSize": 29610,
+                        "fileType": "XML"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "14d4c9b52bf6ab782e1d7056f9c0c4dc",
+                        "fileName": "14d4c9b52bf6ab782e1d7056f9c0c4dc.bam",
+                        "fileSize": 87134040618,
+                        "fileType": "BAM"
+                    },
+                    {
+                        "fileAccess": "controlled",
+                        "fileMd5sum": "e607ee5b3e6c516521a983e33b4df566",
+                        "fileName": "14d4c9b52bf6ab782e1d7056f9c0c4dc.bam.bai",
+                        "fileSize": 10940432,
+                        "fileType": "BAI"
+                    }
+                ],
+                "info": {
+                    "isPcawg": true
+                },
+                "sample": [
+                    {
+                        "donor": {
+                            "donorGender": "unspecified",
+                            "donorSubmitterId": "MBRep_T34"
+                        },
+                        "sampleSubmitterId": "MBRep_T34",
+                        "sampleType": "DNA",
+                        "specimen": {
+                            "specimenClass": "Tumour",
+                            "specimenSubmitterId": "MBRep_T34",
+                            "specimenType": "Primary tumour - solid tissue"
+                        }
+                    }
+                ]
+            }
+        ],
+        "studyId": "PBCA-DE"
+    }
+]
